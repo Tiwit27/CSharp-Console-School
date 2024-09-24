@@ -1,0 +1,15 @@
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\bin\Debug\net8.0\Zadanie1.exe
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\bin\Debug\net8.0\Zadanie1.deps.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\bin\Debug\net8.0\Zadanie1.runtimeconfig.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\bin\Debug\net8.0\Zadanie1.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\bin\Debug\net8.0\Zadanie1.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\obj\Debug\net8.0\Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfoInputs.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\obj\Debug\net8.0\Zadanie1.AssemblyInfo.cs
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\obj\Debug\net8.0\Zadanie1.csproj.CoreCompileInputs.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\obj\Debug\net8.0\Zadanie1.sourcelink.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\obj\Debug\net8.0\Zadanie1.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\obj\Debug\net8.0\refint\Zadanie1.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\obj\Debug\net8.0\Zadanie1.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\obj\Debug\net8.0\Zadanie1.genruntimeconfig.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie1\obj\Debug\net8.0\ref\Zadanie1.dll
