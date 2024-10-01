@@ -6,6 +6,11 @@ namespace Lekcja5
     {
         static void Main(string[] args)
         {
+            //Metoda statyczna to metoda, która należy do samej klasy, a nie do konkretnej instancji klasy.
+            //Oznacza to, że możesz wywołać metodę statyczną bez wcześniejszego tworzenia obiektu klasy.
+            //Metoda statyczna może uzyskać dostęp tylko do zmiennych statycznych i innych metod statycznych klasy, a nie do zmiennych lub metod instancji
+
+
             //Konwersja
             //double x;
             //Console.WriteLine("Podaj liczbę:");

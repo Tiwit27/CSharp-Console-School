@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{D06892EF-EADD-47AC-A53D-6EF658EDC5C2}|Lekcja5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D06892EF-EADD-47AC-A53D-6EF658EDC5C2}|Lekcja5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\lekcja5\\mata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D06892EF-EADD-47AC-A53D-6EF658EDC5C2}|Lekcja5.csproj|D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja5\\mata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D06892EF-EADD-47AC-A53D-6EF658EDC5C2}|Lekcja5.csproj|solutionrelative:mata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Mata.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T06:23:11.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T06:23:11.951Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja5\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T05:52:07.566Z",
               "EditorCaption": ""
