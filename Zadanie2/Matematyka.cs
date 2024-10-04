@@ -24,13 +24,39 @@ namespace Zadanie2
         {
             return Math.Pow(x, y);
         }
-        public static double Pierwiastek(double x, double y)
+        public static double Pierwiastek(double x, int y)
         {
-            return 0;
+            double wynik = 0;
+            if (x < 0 && y % 2 == 1)
+            {
+                wynik = Math.Pow(-x, (1.0 / y));
+                wynik *= -1;
+            }
+            else
+            {
+                wynik = Math.Pow(x, (1.0 / y));
+            }
+
+            return wynik;
         }
-        public static int Silnia()
+        public static int Silnia(int x)
         {
-            return 0;
+            int wynik = 1;
+            if (x > 0)
+            {
+                for (int i = x; i > 0; i--)
+                {
+                    wynik *= i;
+                }
+            }
+            else if (x < 0)
+            {
+                for (int i = x; i < 0; i++)
+                {
+                    wynik *= i;
+                }
+            }
+            return wynik;
         }
     }
 }
