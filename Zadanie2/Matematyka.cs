@@ -39,19 +39,12 @@ namespace Zadanie2
 
             return wynik;
         }
-        public static int Silnia(int x)
+        public static long Silnia(int x)
         {
-            int wynik = 1;
+            long wynik = 1;
             if (x > 0)
             {
                 for (int i = x; i > 0; i--)
-                {
-                    wynik *= i;
-                }
-            }
-            else if (x < 0)
-            {
-                for (int i = x; i < 0; i++)
                 {
                     wynik *= i;
                 }

@@ -88,6 +88,10 @@
                             Console.Clear();
                             Console.WriteLine("Podaj liczbę:");
                             a = double.Parse(Console.ReadLine());
+                            if(a < 0 || (a - Convert.ToInt32(a)) != 0)
+                            {
+                                throw new MyException("Nie można obliczyć silni z podanej liczby");
+                            }
                             Console.WriteLine($"{a}! = {Matematyka.Silnia(Convert.ToInt32(a))}");
                             Console.ReadKey();
                             break;
