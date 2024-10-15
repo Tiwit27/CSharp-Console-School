@@ -1,0 +1,2 @@
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Biblioteki\bin\Release\net8.0\publish\linux-x64\Biblioteki.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Biblioteki\bin\Release\net8.0\publish\linux-x64\Biblioteki

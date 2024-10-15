@@ -1,0 +1,12 @@
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\bin\Debug\net8.0\KonwersjaCnaFiK.deps.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\bin\Debug\net8.0\KonwersjaCnaFiK.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\bin\Debug\net8.0\KonwersjaCnaFiK.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\obj\Debug\net8.0\KonwersjaCnaFiK.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\obj\Debug\net8.0\KonwersjaCnaFiK.AssemblyInfoInputs.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\obj\Debug\net8.0\KonwersjaCnaFiK.AssemblyInfo.cs
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\obj\Debug\net8.0\KonwersjaCnaFiK.csproj.CoreCompileInputs.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\obj\Debug\net8.0\KonwersjaCnaFiK.sourcelink.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\obj\Debug\net8.0\KonwersjaCnaFiK.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\obj\Debug\net8.0\refint\KonwersjaCnaFiK.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\obj\Debug\net8.0\KonwersjaCnaFiK.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Udostepnione\KonwersjaCnaFiK\obj\Debug\net8.0\ref\KonwersjaCnaFiK.dll

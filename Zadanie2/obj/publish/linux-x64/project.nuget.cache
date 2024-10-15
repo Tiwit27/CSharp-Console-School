@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKP14U7E7EsAe4mpryCY9OKEGrAd44OBC7GKpWXu+xwXnTqdZzlNya9WzZzGjVIp5nHnc9ptt5BFBSCkxHiXqg==",
+  "success": true,
+  "projectFilePath": "D:\\3pb\\Rafał Łojek\\Csharp\\Konsolowo\\Zadanie2\\Zadanie2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.1\\microsoft.netcore.app.runtime.linux-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.1\\microsoft.netcore.app.host.linux-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

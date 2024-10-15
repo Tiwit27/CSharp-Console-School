@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1084F05-EBEB-4BAB-967F-E79979BC4A41}|Zadanie2.csproj|D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1084F05-EBEB-4BAB-967F-E79979BC4A41}|Zadanie2.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1084F05-EBEB-4BAB-967F-E79979BC4A41}|Zadanie2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1084F05-EBEB-4BAB-967F-E79979BC4A41}|Zadanie2.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie2\\matematyka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1084F05-EBEB-4BAB-967F-E79979BC4A41}|Zadanie2.csproj|solutionrelative:matematyka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1084F05-EBEB-4BAB-967F-E79979BC4A41}|Zadanie2.csproj|D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie2\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1084F05-EBEB-4BAB-967F-E79979BC4A41}|Zadanie2.csproj|solutionrelative:myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1084F05-EBEB-4BAB-967F-E79979BC4A41}|Zadanie2.csproj|D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie2\\matematyka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1084F05-EBEB-4BAB-967F-E79979BC4A41}|Zadanie2.csproj|solutionrelative:matematyka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MyException.cs",
               "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie2\\MyException.cs",
               "RelativeDocumentMoniker": "MyException.cs",
@@ -38,16 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Matematyka.cs",
               "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie2\\Matematyka.cs",
               "RelativeDocumentMoniker": "Matematyka.cs",
               "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie2\\Matematyka.cs",
               "RelativeToolTip": "Matematyka.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAcwDEAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T11:46:52.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T11:46:52.135Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAgwFAAAAAdAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T11:38:19.881Z",
               "EditorCaption": ""

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0V8Lo6uj1k+VcxxMwSxENKbmxEW2Gy1RJ43KNovLT84P8WqrZjSPuRmeu07CWqFktCuZpzHFz+Oark2ESyByg==",
+  "success": true,
+  "projectFilePath": "D:\\3pb\\Rafał Łojek\\Csharp\\Konsolowo\\Lekcja7\\Matematyka\\Matematyka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

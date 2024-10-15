@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja7\\Matematyka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D662ED-D5F8-4C12-B03E-F9C936A525D8}|Matematyka.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\lekcja7\\matematyka\\mata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D662ED-D5F8-4C12-B03E-F9C936A525D8}|Matematyka.csproj|solutionrelative:mata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D662ED-D5F8-4C12-B03E-F9C936A525D8}|Matematyka.csproj|D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja7\\Matematyka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D662ED-D5F8-4C12-B03E-F9C936A525D8}|Matematyka.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mata.cs",
+              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja7\\Matematyka\\Mata.cs",
+              "RelativeDocumentMoniker": "Mata.cs",
+              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja7\\Matematyka\\Mata.cs",
+              "RelativeToolTip": "Mata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:48:38.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja7\\Matematyka\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja7\\Matematyka\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T05:42:54.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

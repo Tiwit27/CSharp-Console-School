@@ -1,0 +1,12 @@
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\bin\Debug\net8.0\Matematyka2.deps.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\bin\Debug\net8.0\Matematyka2.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\bin\Debug\net8.0\Matematyka2.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\obj\Debug\net8.0\Matematyka2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\obj\Debug\net8.0\Matematyka2.AssemblyInfoInputs.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\obj\Debug\net8.0\Matematyka2.AssemblyInfo.cs
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\obj\Debug\net8.0\Matematyka2.csproj.CoreCompileInputs.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\obj\Debug\net8.0\Matematyka2.sourcelink.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\obj\Debug\net8.0\Matematyka2.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\obj\Debug\net8.0\refint\Matematyka2.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\obj\Debug\net8.0\Matematyka2.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja7\Matematyka2\obj\Debug\net8.0\ref\Matematyka2.dll
