@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D67B9DEC-178D-49E0-A1AF-A885624DE3EC}|Lekcja9.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\lekcja9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D67B9DEC-178D-49E0-A1AF-A885624DE3EC}|Lekcja9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D67B9DEC-178D-49E0-A1AF-A885624DE3EC}|Lekcja9.csproj|D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja9\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67B9DEC-178D-49E0-A1AF-A885624DE3EC}|Lekcja9.csproj|solutionrelative:samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D67B9DEC-178D-49E0-A1AF-A885624DE3EC}|Lekcja9.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\lekcja9\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D67B9DEC-178D-49E0-A1AF-A885624DE3EC}|Lekcja9.csproj|solutionrelative:samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D67B9DEC-178D-49E0-A1AF-A885624DE3EC}|Lekcja9.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\lekcja9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67B9DEC-178D-49E0-A1AF-A885624DE3EC}|Lekcja9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Samochod.cs",
               "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja9\\Samochod.cs",
               "RelativeDocumentMoniker": "Samochod.cs",
               "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja9\\Samochod.cs",
               "RelativeToolTip": "Samochod.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAmAAAA",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAiwBEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:41:03.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja9\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja9\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T05:48:10.864Z",
               "EditorCaption": ""
