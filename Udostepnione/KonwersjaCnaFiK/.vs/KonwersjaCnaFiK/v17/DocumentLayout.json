@@ -1,10 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Udostepnione\\KonwersjaCnaFiK\\",
+  "WorkspaceRootPath": "\\\\10.200.1.31\\Udostepnione\\KonwersjaCnaFiK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F78DEEE-38F0-4B0F-BC4E-2F5699790790}|KonwersjaCnaFiK.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\udostepnione\\konwersjacnafik\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F78DEEE-38F0-4B0F-BC4E-2F5699790790}|KonwersjaCnaFiK.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F78DEEE-38F0-4B0F-BC4E-2F5699790790}|KonwersjaCnaFiK.csproj|\\\\10.200.1.31\\udostepnione\\konwersjacnafik\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +27,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Udostepnione\\KonwersjaCnaFiK\\Class1.cs",
+              "DocumentMoniker": "\\\\10.200.1.31\\Udostepnione\\KonwersjaCnaFiK\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Udostepnione\\KonwersjaCnaFiK\\Class1.cs",
+              "ToolTip": "\\\\10.200.1.31\\Udostepnione\\KonwersjaCnaFiK\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T10:46:28.753Z",
               "EditorCaption": ""

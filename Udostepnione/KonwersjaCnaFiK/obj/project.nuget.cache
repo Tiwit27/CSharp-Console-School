@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K7zoVHM/a7/pVR3pMD2fGGJ6M/jM54cLxsL8wM1Lh+ukRsx5ept58uu4P8/ckTVYoAVtBvOi7YuHAKj4ocxbfQ==",
+  "dgSpecHash": "ysflzd3QgVU=",
   "success": true,
-  "projectFilePath": "D:\\3pb\\Rafał Łojek\\Csharp\\Konsolowo\\Udostepnione\\KonwersjaCnaFiK\\KonwersjaCnaFiK.csproj",
+  "projectFilePath": "\\\\10.200.1.31\\Udostepnione\\KonwersjaCnaFiK\\KonwersjaCnaFiK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
     "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",

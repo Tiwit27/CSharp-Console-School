@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3pb\\Rafał Łojek\\Csharp\\Konsolowo\\Udostepnione\\KonwersjaCnaFiK\\KonwersjaCnaFiK.csproj": {}
+    "\\\\10.200.1.31\\Udostepnione\\KonwersjaCnaFiK\\KonwersjaCnaFiK.csproj": {}
   },
   "projects": {
-    "D:\\3pb\\Rafał Łojek\\Csharp\\Konsolowo\\Udostepnione\\KonwersjaCnaFiK\\KonwersjaCnaFiK.csproj": {
+    "\\\\10.200.1.31\\Udostepnione\\KonwersjaCnaFiK\\KonwersjaCnaFiK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3pb\\Rafał Łojek\\Csharp\\Konsolowo\\Udostepnione\\KonwersjaCnaFiK\\KonwersjaCnaFiK.csproj",
+        "projectUniqueName": "\\\\10.200.1.31\\Udostepnione\\KonwersjaCnaFiK\\KonwersjaCnaFiK.csproj",
         "projectName": "KonwersjaCnaFiK",
-        "projectPath": "D:\\3pb\\Rafał Łojek\\Csharp\\Konsolowo\\Udostepnione\\KonwersjaCnaFiK\\KonwersjaCnaFiK.csproj",
+        "projectPath": "\\\\10.200.1.31\\Udostepnione\\KonwersjaCnaFiK\\KonwersjaCnaFiK.csproj",
         "packagesPath": "C:\\Users\\programowanie\\.nuget\\packages\\",
-        "outputPath": "D:\\3pb\\Rafał Łojek\\Csharp\\Konsolowo\\Udostepnione\\KonwersjaCnaFiK\\obj\\",
+        "outputPath": "\\\\10.200.1.31\\Udostepnione\\KonwersjaCnaFiK\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\programowanie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,7 +38,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         }
       },
       "frameworks": {
