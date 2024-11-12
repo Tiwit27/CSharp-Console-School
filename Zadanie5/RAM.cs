@@ -9,17 +9,40 @@ namespace Zadanie5
 {
     internal class RAM
     {
+        int pojemnosc;
+        int taktowanie;
         string Producent { get; set; }
         string RodzajPamieci { get; set; }
         int Pojemnosc
         {
-            get { return Pojemnosc; }
-            set { if (value <= 0) Pojemnosc = 2; }
+            get { return pojemnosc; }
+            set
+            {
+                if (value <= 0)
+                {
+                    pojemnosc = 2;
+                }
+                else
+                {
+                    pojemnosc = value;
+                }
+            }
         }
         int Taktowanie
         {
-            get { return Taktowanie; }
-            set { if (value <= 0) Taktowanie = 1000; }
+            get { return taktowanie; }
+            set 
+            { 
+                if (value <= 0)
+                {
+                    taktowanie = 1000;
+                }
+                else
+                {
+                    taktowanie = value;
+                }
+                    
+            }
         }
         internal void PodajParametry()
         {
@@ -34,11 +57,14 @@ namespace Zadanie5
         }
         internal void WypiszParametry()
         {
-            Console.WriteLine($"Dysk: \n" +
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write($"RAM: \n");
+            Console.ResetColor();
+            Console.WriteLine(
                 $"Producent: {Producent}\n" +
                 $"Rodzaj Pamięci: {RodzajPamieci}\n" +
                 $"Pojemność Pamięci: {Pojemnosc}\n" +
-                $"Taktowanie: {Taktowanie}\n\n");
+                $"Taktowanie: {Taktowanie}\n");
         }
     }
 }

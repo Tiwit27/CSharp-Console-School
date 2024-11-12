@@ -9,20 +9,53 @@ namespace Zadanie5
 {
     internal class Procesor
     {
+        int iloscRdzeni;
+        double taktowanie;
+        int pamiecCache;
         string Nazwa { get; set; }
         int IloscRdzeni {
-            get { return IloscRdzeni; }
-            set { if (value <= 0) IloscRdzeni = 1; }
+            get { return iloscRdzeni; }
+            set 
+            {
+                if (value <= 0)
+                {
+                    iloscRdzeni = 1;
+                }
+                else
+                {
+                    iloscRdzeni = value;
+                }
+            }
         }
         double Taktowanie
         {
-            get { return Taktowanie; }
-            set { if (value <= 0) Taktowanie = 1; }
+            get { return taktowanie; }
+            set 
+            { 
+                if (value <= 0)
+                {
+                    taktowanie = 1;
+                }
+                else
+                {
+                    taktowanie = value;
+                }
+            }
         }
         int PamiecCache
         {
-            get { return PamiecCache; }
-            set { if (value <= 0) PamiecCache = 1; }
+            get { return pamiecCache; }
+            set 
+            { 
+                if (value <= 0)
+                {
+                    pamiecCache = 1;
+                }
+                else
+                {
+                    pamiecCache = value;
+                }
+            }
         }
         internal void PodajParametry()
         {
@@ -37,11 +70,14 @@ namespace Zadanie5
         }
         internal void WypiszParametry()
         {
-            Console.WriteLine($"Dysk: \n" +
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write($"Procesor \n");
+            Console.ResetColor();
+            Console.WriteLine(
                 $"Nazwa: {Nazwa}\n" +
                 $"Ilość Rdzeni: {IloscRdzeni}\n" +
                 $"Taktowanie: {Taktowanie}\n" +
-                $"Pamięć Cache: {PamiecCache}\n\n");
+                $"Pamięć Cache: {PamiecCache}\n");
         }
     }
 }

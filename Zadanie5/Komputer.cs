@@ -21,6 +21,7 @@ namespace Zadanie5
         }
         internal void WypiszParametryKomputera()
         {
+            Console.Clear();
             Console.WriteLine("Ten Komputer składa się z: \n");
             procesor.WypiszParametry();
             ram.WypiszParametry();

@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\",
+  "WorkspaceRootPath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\procesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:procesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\komputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\zadanie5\\komputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:komputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\dysk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\zadanie5\\dysk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:dysk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\kartagraficzna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\zadanie5\\kartagraficzna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:kartagraficzna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\zasilacz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\zadanie5\\procesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:procesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\zadanie5\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\zadanie5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\zadanie5\\zasilacz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:zasilacz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -52,89 +56,88 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Zasilacz.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Zasilacz.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Zasilacz.cs",
               "RelativeDocumentMoniker": "Zasilacz.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Zasilacz.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Zasilacz.cs",
               "RelativeToolTip": "Zasilacz.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:47:16.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T12:47:16.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Komputer.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Komputer.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Komputer.cs",
               "RelativeDocumentMoniker": "Komputer.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Komputer.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Komputer.cs",
               "RelativeToolTip": "Komputer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T11:36:37.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "KartaGraficzna.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\KartaGraficzna.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\KartaGraficzna.cs",
               "RelativeDocumentMoniker": "KartaGraficzna.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\KartaGraficzna.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\KartaGraficzna.cs",
               "RelativeToolTip": "KartaGraficzna.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T12:29:49.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Procesor.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Procesor.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Procesor.cs",
               "RelativeDocumentMoniker": "Procesor.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Procesor.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Procesor.cs",
               "RelativeToolTip": "Procesor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T11:43:43.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RAM.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\RAM.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\RAM.cs",
               "RelativeDocumentMoniker": "RAM.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\RAM.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\RAM.cs",
               "RelativeToolTip": "RAM.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA0wB4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwDwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T11:36:30.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Dysk.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Dysk.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Dysk.cs",
               "RelativeDocumentMoniker": "Dysk.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Dysk.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Dysk.cs",
               "RelativeToolTip": "Dysk.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA0wB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T11:36:13.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Program.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T11:29:36.038Z",
               "EditorCaption": ""

@@ -8,12 +8,23 @@ namespace Zadanie5
 {
     internal class KartaGraficzna
     {
+        int pamiec;
         string Nazwa { get; set; }
         string RodzajZlacza { get; set; }
         int Pamiec
         {
-            get { return Pamiec; }
-            set { if (value <= 0) Pamiec = 1; }
+            get { return pamiec; }
+            set 
+            { 
+                if (value <= 0)
+                {
+                    pamiec = 1;
+                }
+                else
+                {
+                    pamiec = value;
+                }
+            }
         }
         string RodzajPamieci { get; set; }
         internal void PodajParametry()
@@ -29,11 +40,14 @@ namespace Zadanie5
         }
         internal void WypiszParametry()
         {
-            Console.WriteLine($"Dysk: \n" +
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write($"Karta Graficzna: \n");
+            Console.ResetColor();
+            Console.WriteLine(
                 $"Nazwa: {Nazwa}\n" +
                 $"Rodzaj Złącza: {RodzajZlacza}\n" +
                 $"Pamięć: {Pamiec}\n" +
-                $"Rodzaj Pamięci: {RodzajPamieci}\n\n");
+                $"Rodzaj Pamięci: {RodzajPamieci}\n");
         }
     }
 }

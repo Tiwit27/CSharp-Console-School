@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hWw/Qn2mZOI=",
+  "dgSpecHash": "BW6FNDZVpCA=",
   "success": true,
-  "projectFilePath": "D:\\3pb\\Rafał Łojek\\Csharp\\Konsolowo\\Zadanie5\\Zadanie5.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
-    "C:\\Users\\programowanie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie5\\Zadanie5.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
