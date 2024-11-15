@@ -9,20 +9,46 @@ namespace Zadanie5
 {
     internal class RAM
     {
+        int pojemnosc;
+        int taktowanie;
         string Producent { get; set; }
         string RodzajPamieci { get; set; }
         int Pojemnosc
         {
-            get { return Pojemnosc; }
-            set { if (value <= 0) Pojemnosc = 2; }
+            get { return pojemnosc; }
+            set
+            {
+                if (value <= 0)
+                {
+                    pojemnosc = 2;
+                }
+                else
+                {
+                    pojemnosc = value;
+                }
+            }
         }
         int Taktowanie
         {
-            get { return Taktowanie; }
-            set { if (value <= 0) Taktowanie = 1000; }
+            get { return taktowanie; }
+            set 
+            { 
+                if (value <= 0)
+                {
+                    taktowanie = 1000;
+                }
+                else
+                {
+                    taktowanie = value;
+                }
+                    
+            }
         }
         internal void PodajParametry()
         {
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine("PARAMETRY RAMU");
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("Podaj producenta ramu: ");
             Producent = Console.ReadLine();
             Console.Write("Podaj rodzaj pamięci ram: ");
@@ -31,14 +57,18 @@ namespace Zadanie5
             Pojemnosc = int.Parse(Console.ReadLine());
             Console.Write("Podaj taktowanie ramu: ");
             Taktowanie = int.Parse(Console.ReadLine());
+            Console.WriteLine("");
         }
         internal void WypiszParametry()
         {
-            Console.WriteLine($"Dysk: \n" +
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.Write($"RAM: \n");
+            Console.ResetColor();
+            Console.WriteLine(
                 $"Producent: {Producent}\n" +
                 $"Rodzaj Pamięci: {RodzajPamieci}\n" +
-                $"Pojemność Pamięci: {Pojemnosc}\n" +
-                $"Taktowanie: {Taktowanie}\n\n");
+                $"Pojemność Pamięci: {Pojemnosc} GB\n" +
+                $"Taktowanie: {Taktowanie} MHz\n");
         }
     }
 }

@@ -8,16 +8,30 @@ namespace Zadanie5
 {
     internal class Dysk
     {
+        int pojemnosc;
         string Typ {  get; set; }
         int Pojemnosc
         {
-            get { return Pojemnosc; }
-            set { if (value <= 0) Pojemnosc = 32; }
+            get { return pojemnosc; }
+            set 
+            { 
+                if (value <= 0)
+                { 
+                    pojemnosc = 32; 
+                }
+                else 
+                { 
+                    pojemnosc = value; 
+                } 
+            }
         }
         string Interfejs { get; set; }
         string Format { get; set; }
         internal void PodajParametry()
         {
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine("PARAMETRY DYSKU");
+            Console.ForegroundColor = ConsoleColor.White;
             Console.Write("Podaj typ dysku: ");
             Typ = Console.ReadLine();
             Console.Write("Podaj pojemność dysku: ");
@@ -26,14 +40,18 @@ namespace Zadanie5
             Interfejs = Console.ReadLine();
             Console.Write("Podaj format dysku: ");
             Format = Console.ReadLine();
+            Console.WriteLine("");
         }
         internal void WypiszParametry()
         {
-            Console.WriteLine($"Dysk: \n" +
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.Write($"Dysk: \n");
+            Console.ResetColor();
+            Console.WriteLine(
                 $"Typ: {Typ}\n" +
-                $"Pojemność: {Pojemnosc}\n" +
+                $"Pojemność: {Pojemnosc} GB\n" +
                 $"Interfejs: {Interfejs}\n" +
-                $"Format: {Format}\n\n");
+                $"Format: {Format}\n");
         }
     }
 }

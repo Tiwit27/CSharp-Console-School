@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\procesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:procesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\zasilacz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:zasilacz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\kartagraficzna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:kartagraficzna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\plytaglowna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:plytaglowna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\komputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:komputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\obudowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:obudowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\dysk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:dysk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\zasilacz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:zasilacz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie5\\procesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838D5D18-C371-425B-8837-3A4B2CA18BF4}|Zadanie5.csproj|solutionrelative:procesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,27 +58,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Zasilacz.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Zasilacz.cs",
-              "RelativeDocumentMoniker": "Zasilacz.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Zasilacz.cs",
-              "RelativeToolTip": "Zasilacz.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:47:16.164Z"
+              "WhenOpened": "2024-11-15T07:29:57.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Komputer.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Komputer.cs",
-              "RelativeDocumentMoniker": "Komputer.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Komputer.cs",
-              "RelativeToolTip": "Komputer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Obudowa.cs",
+              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Obudowa.cs",
+              "RelativeDocumentMoniker": "Obudowa.cs",
+              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Obudowa.cs",
+              "RelativeToolTip": "Obudowa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:36:37.146Z"
+              "WhenOpened": "2024-11-15T06:53:29.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlytaGlowna.cs",
+              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\PlytaGlowna.cs",
+              "RelativeDocumentMoniker": "PlytaGlowna.cs",
+              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\PlytaGlowna.cs",
+              "RelativeToolTip": "PlytaGlowna.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:46:11.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,59 +103,75 @@
               "RelativeDocumentMoniker": "KartaGraficzna.cs",
               "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\KartaGraficzna.cs",
               "RelativeToolTip": "KartaGraficzna.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:29:49.11Z",
+              "WhenOpened": "2024-11-15T06:45:02.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Zasilacz.cs",
+              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Zasilacz.cs",
+              "RelativeDocumentMoniker": "Zasilacz.cs",
+              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Zasilacz.cs",
+              "RelativeToolTip": "Zasilacz.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:47:16.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Procesor.cs",
               "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Procesor.cs",
               "RelativeDocumentMoniker": "Procesor.cs",
               "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Procesor.cs",
               "RelativeToolTip": "Procesor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T11:43:43.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "RAM.cs",
               "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\RAM.cs",
               "RelativeDocumentMoniker": "RAM.cs",
               "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\RAM.cs",
               "RelativeToolTip": "RAM.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA0wB4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:36:30.176Z"
+              "WhenOpened": "2024-11-12T11:36:30.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Dysk.cs",
               "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Dysk.cs",
               "RelativeDocumentMoniker": "Dysk.cs",
               "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Dysk.cs",
               "RelativeToolTip": "Dysk.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA0wB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA8wC4AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:36:13.48Z"
+              "WhenOpened": "2024-11-12T11:36:13.48Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Title": "Komputer.cs",
+              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Komputer.cs",
+              "RelativeDocumentMoniker": "Komputer.cs",
+              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie5\\Komputer.cs",
+              "RelativeToolTip": "Komputer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T11:29:36.038Z"
+              "WhenOpened": "2024-11-12T11:36:37.146Z",
+              "EditorCaption": ""
             }
           ]
         }
