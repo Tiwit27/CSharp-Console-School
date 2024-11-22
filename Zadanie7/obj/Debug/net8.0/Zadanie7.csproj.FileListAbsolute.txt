@@ -1,0 +1,15 @@
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\bin\Debug\net8.0\Zadanie7.exe
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\bin\Debug\net8.0\Zadanie7.deps.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\bin\Debug\net8.0\Zadanie7.runtimeconfig.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\bin\Debug\net8.0\Zadanie7.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\bin\Debug\net8.0\Zadanie7.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\obj\Debug\net8.0\Zadanie7.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\obj\Debug\net8.0\Zadanie7.AssemblyInfoInputs.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\obj\Debug\net8.0\Zadanie7.AssemblyInfo.cs
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\obj\Debug\net8.0\Zadanie7.csproj.CoreCompileInputs.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\obj\Debug\net8.0\Zadanie7.sourcelink.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\obj\Debug\net8.0\Zadanie7.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\obj\Debug\net8.0\refint\Zadanie7.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\obj\Debug\net8.0\Zadanie7.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\obj\Debug\net8.0\Zadanie7.genruntimeconfig.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Zadanie7\obj\Debug\net8.0\ref\Zadanie7.dll

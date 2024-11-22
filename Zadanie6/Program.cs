@@ -32,8 +32,6 @@ namespace Zadanie6
                 podanaWartosc = Console.ReadLine();
                 if (Regex.IsMatch(podanaWartosc, regex))
                 {
-                    Console.WriteLine("Poprawny " + nazwa);
-                    Console.ReadKey();
                     Console.Clear();
                     break;
                 }
