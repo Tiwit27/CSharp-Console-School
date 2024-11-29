@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie7\\",
+  "WorkspaceRootPath": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D04B291-9D8C-4F48-AAB6-ED9B06910C67}|Zadanie7.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\zadanie7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D04B291-9D8C-4F48-AAB6-ED9B06910C67}|Zadanie7.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D04B291-9D8C-4F48-AAB6-ED9B06910C67}|Zadanie7.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D04B291-9D8C-4F48-AAB6-ED9B06910C67}|Zadanie7.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\zadanie7\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D04B291-9D8C-4F48-AAB6-ED9B06910C67}|Zadanie7.csproj|d:\\3pb\\rafa\u0142 \u0142ojek\\csharp\\konsolowo\\zadanie7\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D04B291-9D8C-4F48-AAB6-ED9B06910C67}|Zadanie7.csproj|solutionrelative:myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -36,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MyException.cs",
-              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie7\\MyException.cs",
+              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie7\\MyException.cs",
               "RelativeDocumentMoniker": "MyException.cs",
-              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie7\\MyException.cs",
+              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie7\\MyException.cs",
               "RelativeToolTip": "MyException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie7\\Program.cs",
+              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie7\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Zadanie7\\Program.cs",
+              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Zadanie7\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAswFwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwGQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T07:17:19.773Z",
               "EditorCaption": ""
