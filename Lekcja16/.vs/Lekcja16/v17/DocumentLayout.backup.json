@@ -21,6 +21,19 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tablica.cs",
+              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja16\\Tablica.cs",
+              "RelativeDocumentMoniker": "Tablica.cs",
+              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja16\\Tablica.cs",
+              "RelativeToolTip": "Tablica.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:32:34.686Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
@@ -30,26 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tablica.cs",
-              "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja16\\Tablica.cs",
-              "RelativeDocumentMoniker": "Tablica.cs",
-              "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja16\\Tablica.cs",
-              "RelativeToolTip": "Tablica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T11:32:34.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja16\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\3pb\\Rafa\u0142 \u0141ojek\\Csharp\\Konsolowo\\Lekcja16\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T11:32:17.448Z",
               "EditorCaption": ""

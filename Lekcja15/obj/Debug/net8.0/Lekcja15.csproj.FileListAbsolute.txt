@@ -1,0 +1,14 @@
+C:\Users\programowanie\source\repos\Lekcja15\bin\Debug\net8.0\Lekcja15.exe
+C:\Users\programowanie\source\repos\Lekcja15\bin\Debug\net8.0\Lekcja15.deps.json
+C:\Users\programowanie\source\repos\Lekcja15\bin\Debug\net8.0\Lekcja15.runtimeconfig.json
+C:\Users\programowanie\source\repos\Lekcja15\bin\Debug\net8.0\Lekcja15.dll
+C:\Users\programowanie\source\repos\Lekcja15\bin\Debug\net8.0\Lekcja15.pdb
+C:\Users\programowanie\source\repos\Lekcja15\obj\Debug\net8.0\Lekcja15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\programowanie\source\repos\Lekcja15\obj\Debug\net8.0\Lekcja15.AssemblyInfoInputs.cache
+C:\Users\programowanie\source\repos\Lekcja15\obj\Debug\net8.0\Lekcja15.AssemblyInfo.cs
+C:\Users\programowanie\source\repos\Lekcja15\obj\Debug\net8.0\Lekcja15.csproj.CoreCompileInputs.cache
+C:\Users\programowanie\source\repos\Lekcja15\obj\Debug\net8.0\Lekcja15.dll
+C:\Users\programowanie\source\repos\Lekcja15\obj\Debug\net8.0\refint\Lekcja15.dll
+C:\Users\programowanie\source\repos\Lekcja15\obj\Debug\net8.0\Lekcja15.pdb
+C:\Users\programowanie\source\repos\Lekcja15\obj\Debug\net8.0\Lekcja15.genruntimeconfig.cache
+C:\Users\programowanie\source\repos\Lekcja15\obj\Debug\net8.0\ref\Lekcja15.dll

@@ -1,0 +1,15 @@
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\bin\Debug\net8.0\Lekcja17.exe
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\bin\Debug\net8.0\Lekcja17.deps.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\bin\Debug\net8.0\Lekcja17.runtimeconfig.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\bin\Debug\net8.0\Lekcja17.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\bin\Debug\net8.0\Lekcja17.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\obj\Debug\net8.0\Lekcja17.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\obj\Debug\net8.0\Lekcja17.AssemblyInfoInputs.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\obj\Debug\net8.0\Lekcja17.AssemblyInfo.cs
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\obj\Debug\net8.0\Lekcja17.csproj.CoreCompileInputs.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\obj\Debug\net8.0\Lekcja17.sourcelink.json
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\obj\Debug\net8.0\Lekcja17.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\obj\Debug\net8.0\refint\Lekcja17.dll
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\obj\Debug\net8.0\Lekcja17.pdb
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\obj\Debug\net8.0\Lekcja17.genruntimeconfig.cache
+D:\3pb\Rafał Łojek\Csharp\Konsolowo\Lekcja17\obj\Debug\net8.0\ref\Lekcja17.dll
