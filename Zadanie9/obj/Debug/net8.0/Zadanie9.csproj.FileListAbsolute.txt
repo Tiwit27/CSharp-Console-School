@@ -1,0 +1,15 @@
+D:\3pb\Zadanie9\bin\Debug\net8.0\Zadanie9.exe
+D:\3pb\Zadanie9\bin\Debug\net8.0\Zadanie9.deps.json
+D:\3pb\Zadanie9\bin\Debug\net8.0\Zadanie9.runtimeconfig.json
+D:\3pb\Zadanie9\bin\Debug\net8.0\Zadanie9.dll
+D:\3pb\Zadanie9\bin\Debug\net8.0\Zadanie9.pdb
+D:\3pb\Zadanie9\obj\Debug\net8.0\Zadanie9.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Zadanie9\obj\Debug\net8.0\Zadanie9.AssemblyInfoInputs.cache
+D:\3pb\Zadanie9\obj\Debug\net8.0\Zadanie9.AssemblyInfo.cs
+D:\3pb\Zadanie9\obj\Debug\net8.0\Zadanie9.csproj.CoreCompileInputs.cache
+D:\3pb\Zadanie9\obj\Debug\net8.0\Zadanie9.sourcelink.json
+D:\3pb\Zadanie9\obj\Debug\net8.0\Zadanie9.dll
+D:\3pb\Zadanie9\obj\Debug\net8.0\refint\Zadanie9.dll
+D:\3pb\Zadanie9\obj\Debug\net8.0\Zadanie9.pdb
+D:\3pb\Zadanie9\obj\Debug\net8.0\Zadanie9.genruntimeconfig.cache
+D:\3pb\Zadanie9\obj\Debug\net8.0\ref\Zadanie9.dll
