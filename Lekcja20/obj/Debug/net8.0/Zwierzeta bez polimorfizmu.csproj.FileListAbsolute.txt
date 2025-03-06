@@ -1,0 +1,14 @@
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\bin\Debug\net8.0\Zwierzeta bez polimorfizmu.exe
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\bin\Debug\net8.0\Zwierzeta bez polimorfizmu.deps.json
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\bin\Debug\net8.0\Zwierzeta bez polimorfizmu.runtimeconfig.json
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\bin\Debug\net8.0\Zwierzeta bez polimorfizmu.dll
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\bin\Debug\net8.0\Zwierzeta bez polimorfizmu.pdb
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\obj\Debug\net8.0\Zwierzeta bez polimorfizmu.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\obj\Debug\net8.0\Zwierzeta bez polimorfizmu.AssemblyInfoInputs.cache
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\obj\Debug\net8.0\Zwierzeta bez polimorfizmu.AssemblyInfo.cs
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\obj\Debug\net8.0\Zwierzeta bez polimorfizmu.csproj.CoreCompileInputs.cache
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\obj\Debug\net8.0\Zwierzeta bez polimorfizmu.dll
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\obj\Debug\net8.0\refint\Zwierzeta bez polimorfizmu.dll
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\obj\Debug\net8.0\Zwierzeta bez polimorfizmu.pdb
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\obj\Debug\net8.0\Zwierzeta bez polimorfizmu.genruntimeconfig.cache
+F:\Prog. (sch - etc)\Programowanie - szkoła\Pob\3 klasa\March\Polimorfizm\Zwierzeta bez polimorfizmu\obj\Debug\net8.0\ref\Zwierzeta bez polimorfizmu.dll

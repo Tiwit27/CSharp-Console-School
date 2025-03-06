@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3pb\\Lekcja21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{027B0241-E64A-4CE6-A5AF-0397AF07ADC5}|Lekcja21.csproj|d:\\3pb\\lekcja21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027B0241-E64A-4CE6-A5AF-0397AF07ADC5}|Lekcja21.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027B0241-E64A-4CE6-A5AF-0397AF07ADC5}|Lekcja21.csproj|d:\\3pb\\lekcja21\\zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027B0241-E64A-4CE6-A5AF-0397AF07ADC5}|Lekcja21.csproj|solutionrelative:zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027B0241-E64A-4CE6-A5AF-0397AF07ADC5}|Lekcja21.csproj|d:\\3pb\\lekcja21\\kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027B0241-E64A-4CE6-A5AF-0397AF07ADC5}|Lekcja21.csproj|solutionrelative:kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027B0241-E64A-4CE6-A5AF-0397AF07ADC5}|Lekcja21.csproj|d:\\3pb\\lekcja21\\krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027B0241-E64A-4CE6-A5AF-0397AF07ADC5}|Lekcja21.csproj|solutionrelative:krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027B0241-E64A-4CE6-A5AF-0397AF07ADC5}|Lekcja21.csproj|d:\\3pb\\lekcja21\\pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027B0241-E64A-4CE6-A5AF-0397AF07ADC5}|Lekcja21.csproj|solutionrelative:pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Krowa.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja21\\Krowa.cs",
+              "RelativeDocumentMoniker": "Krowa.cs",
+              "ToolTip": "D:\\3pb\\Lekcja21\\Krowa.cs",
+              "RelativeToolTip": "Krowa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:15:23.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pies.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja21\\Pies.cs",
+              "RelativeDocumentMoniker": "Pies.cs",
+              "ToolTip": "D:\\3pb\\Lekcja21\\Pies.cs",
+              "RelativeToolTip": "Pies.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:15:12.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zwierze.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja21\\Zwierze.cs",
+              "RelativeDocumentMoniker": "Zwierze.cs",
+              "ToolTip": "D:\\3pb\\Lekcja21\\Zwierze.cs",
+              "RelativeToolTip": "Zwierze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:14:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kot.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja21\\Kot.cs",
+              "RelativeDocumentMoniker": "Kot.cs",
+              "ToolTip": "D:\\3pb\\Lekcja21\\Kot.cs",
+              "RelativeToolTip": "Kot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:14:35.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja21\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\3pb\\Lekcja21\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:13:13.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

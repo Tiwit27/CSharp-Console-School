@@ -1,0 +1,15 @@
+D:\3pb\Lekcja18\bin\Debug\net8.0\Lekcja18.exe
+D:\3pb\Lekcja18\bin\Debug\net8.0\Lekcja18.deps.json
+D:\3pb\Lekcja18\bin\Debug\net8.0\Lekcja18.runtimeconfig.json
+D:\3pb\Lekcja18\bin\Debug\net8.0\Lekcja18.dll
+D:\3pb\Lekcja18\bin\Debug\net8.0\Lekcja18.pdb
+D:\3pb\Lekcja18\obj\Debug\net8.0\Lekcja18.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Lekcja18\obj\Debug\net8.0\Lekcja18.AssemblyInfoInputs.cache
+D:\3pb\Lekcja18\obj\Debug\net8.0\Lekcja18.AssemblyInfo.cs
+D:\3pb\Lekcja18\obj\Debug\net8.0\Lekcja18.csproj.CoreCompileInputs.cache
+D:\3pb\Lekcja18\obj\Debug\net8.0\Lekcja18.sourcelink.json
+D:\3pb\Lekcja18\obj\Debug\net8.0\Lekcja18.dll
+D:\3pb\Lekcja18\obj\Debug\net8.0\refint\Lekcja18.dll
+D:\3pb\Lekcja18\obj\Debug\net8.0\Lekcja18.pdb
+D:\3pb\Lekcja18\obj\Debug\net8.0\Lekcja18.genruntimeconfig.cache
+D:\3pb\Lekcja18\obj\Debug\net8.0\ref\Lekcja18.dll

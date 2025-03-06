@@ -1,0 +1,15 @@
+D:\3pb\Lekcja20\bin\Debug\net8.0\Lekcja20.exe
+D:\3pb\Lekcja20\bin\Debug\net8.0\Lekcja20.deps.json
+D:\3pb\Lekcja20\bin\Debug\net8.0\Lekcja20.runtimeconfig.json
+D:\3pb\Lekcja20\bin\Debug\net8.0\Lekcja20.dll
+D:\3pb\Lekcja20\bin\Debug\net8.0\Lekcja20.pdb
+D:\3pb\Lekcja20\obj\Debug\net8.0\Lekcja20.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Lekcja20\obj\Debug\net8.0\Lekcja20.AssemblyInfoInputs.cache
+D:\3pb\Lekcja20\obj\Debug\net8.0\Lekcja20.AssemblyInfo.cs
+D:\3pb\Lekcja20\obj\Debug\net8.0\Lekcja20.csproj.CoreCompileInputs.cache
+D:\3pb\Lekcja20\obj\Debug\net8.0\Lekcja20.sourcelink.json
+D:\3pb\Lekcja20\obj\Debug\net8.0\Lekcja20.dll
+D:\3pb\Lekcja20\obj\Debug\net8.0\refint\Lekcja20.dll
+D:\3pb\Lekcja20\obj\Debug\net8.0\Lekcja20.pdb
+D:\3pb\Lekcja20\obj\Debug\net8.0\Lekcja20.genruntimeconfig.cache
+D:\3pb\Lekcja20\obj\Debug\net8.0\ref\Lekcja20.dll
