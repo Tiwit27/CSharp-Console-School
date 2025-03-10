@@ -15,7 +15,7 @@ namespace Lekcja20
 
         override public void Pokarm()
         {
-            Console.WriteLine("pokarm: wodzisławski kryształ");
+            Console.WriteLine("pokarm: karma");
         }
 
         override public void Pozytek()

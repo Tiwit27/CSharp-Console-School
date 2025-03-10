@@ -1,0 +1,15 @@
+D:\3pb\Lekcja22\bin\Debug\net8.0\Lekcja22.exe
+D:\3pb\Lekcja22\bin\Debug\net8.0\Lekcja22.deps.json
+D:\3pb\Lekcja22\bin\Debug\net8.0\Lekcja22.runtimeconfig.json
+D:\3pb\Lekcja22\bin\Debug\net8.0\Lekcja22.dll
+D:\3pb\Lekcja22\bin\Debug\net8.0\Lekcja22.pdb
+D:\3pb\Lekcja22\obj\Debug\net8.0\Lekcja22.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Lekcja22\obj\Debug\net8.0\Lekcja22.AssemblyInfoInputs.cache
+D:\3pb\Lekcja22\obj\Debug\net8.0\Lekcja22.AssemblyInfo.cs
+D:\3pb\Lekcja22\obj\Debug\net8.0\Lekcja22.csproj.CoreCompileInputs.cache
+D:\3pb\Lekcja22\obj\Debug\net8.0\Lekcja22.sourcelink.json
+D:\3pb\Lekcja22\obj\Debug\net8.0\Lekcja22.dll
+D:\3pb\Lekcja22\obj\Debug\net8.0\refint\Lekcja22.dll
+D:\3pb\Lekcja22\obj\Debug\net8.0\Lekcja22.pdb
+D:\3pb\Lekcja22\obj\Debug\net8.0\Lekcja22.genruntimeconfig.cache
+D:\3pb\Lekcja22\obj\Debug\net8.0\ref\Lekcja22.dll

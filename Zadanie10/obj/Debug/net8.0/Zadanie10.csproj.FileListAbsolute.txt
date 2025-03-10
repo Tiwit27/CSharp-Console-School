@@ -1,0 +1,15 @@
+D:\3pb\Zadanie10\obj\Debug\net8.0\Zadanie10.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Zadanie10\obj\Debug\net8.0\Zadanie10.AssemblyInfoInputs.cache
+D:\3pb\Zadanie10\obj\Debug\net8.0\Zadanie10.AssemblyInfo.cs
+D:\3pb\Zadanie10\obj\Debug\net8.0\Zadanie10.csproj.CoreCompileInputs.cache
+D:\3pb\Zadanie10\obj\Debug\net8.0\Zadanie10.sourcelink.json
+D:\3pb\Zadanie10\bin\Debug\net8.0\Zadanie10.exe
+D:\3pb\Zadanie10\bin\Debug\net8.0\Zadanie10.deps.json
+D:\3pb\Zadanie10\bin\Debug\net8.0\Zadanie10.runtimeconfig.json
+D:\3pb\Zadanie10\bin\Debug\net8.0\Zadanie10.dll
+D:\3pb\Zadanie10\bin\Debug\net8.0\Zadanie10.pdb
+D:\3pb\Zadanie10\obj\Debug\net8.0\Zadanie10.dll
+D:\3pb\Zadanie10\obj\Debug\net8.0\refint\Zadanie10.dll
+D:\3pb\Zadanie10\obj\Debug\net8.0\Zadanie10.pdb
+D:\3pb\Zadanie10\obj\Debug\net8.0\Zadanie10.genruntimeconfig.cache
+D:\3pb\Zadanie10\obj\Debug\net8.0\ref\Zadanie10.dll

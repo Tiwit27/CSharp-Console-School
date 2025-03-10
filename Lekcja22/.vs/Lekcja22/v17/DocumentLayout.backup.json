@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3pb\\Lekcja22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|d:\\3pb\\lekcja22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|d:\\3pb\\lekcja22\\zwierzeta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|solutionrelative:zwierzeta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|d:\\3pb\\lekcja22\\zwierzeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|solutionrelative:zwierzeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|d:\\3pb\\lekcja22\\kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|solutionrelative:kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|d:\\3pb\\lekcja22\\pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|solutionrelative:pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|d:\\3pb\\lekcja22\\krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E26225-7B75-49AC-8B2A-C7F6A7AD753C}|Lekcja22.csproj|solutionrelative:krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zwierzeta2.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja22\\Zwierzeta2.cs",
+              "RelativeDocumentMoniker": "Zwierzeta2.cs",
+              "ToolTip": "D:\\3pb\\Lekcja22\\Zwierzeta2.cs",
+              "RelativeToolTip": "Zwierzeta2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:07:32.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Krowa.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja22\\Krowa.cs",
+              "RelativeDocumentMoniker": "Krowa.cs",
+              "ToolTip": "D:\\3pb\\Lekcja22\\Krowa.cs",
+              "RelativeToolTip": "Krowa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:40:08.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pies.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja22\\Pies.cs",
+              "RelativeDocumentMoniker": "Pies.cs",
+              "ToolTip": "D:\\3pb\\Lekcja22\\Pies.cs",
+              "RelativeToolTip": "Pies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:39:32.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kot.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja22\\Kot.cs",
+              "RelativeDocumentMoniker": "Kot.cs",
+              "ToolTip": "D:\\3pb\\Lekcja22\\Kot.cs",
+              "RelativeToolTip": "Kot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:33:58.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zwierzeta.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja22\\Zwierzeta.cs",
+              "RelativeDocumentMoniker": "Zwierzeta.cs",
+              "ToolTip": "D:\\3pb\\Lekcja22\\Zwierzeta.cs",
+              "RelativeToolTip": "Zwierzeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:23:15.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3pb\\Lekcja22\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\3pb\\Lekcja22\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T14:16:49.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
