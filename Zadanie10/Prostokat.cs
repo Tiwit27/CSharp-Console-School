@@ -23,5 +23,10 @@ namespace Zadanie10
         {
             return (bokA *  bokB);
         }
+
+        public override void WyswietlBoki()
+        {
+            Console.WriteLine($"Prostokąt o bokach: {bokA} i {bokB}");
+        }
     }
 }

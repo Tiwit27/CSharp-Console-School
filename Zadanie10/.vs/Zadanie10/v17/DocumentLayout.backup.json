@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{04CD3278-B2A6-4D3F-A466-467222E58DDB}|Zadanie10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{04CD3278-B2A6-4D3F-A466-467222E58DDB}|Zadanie10.csproj|d:\\3pb\\zadanie10\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04CD3278-B2A6-4D3F-A466-467222E58DDB}|Zadanie10.csproj|solutionrelative:kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04CD3278-B2A6-4D3F-A466-467222E58DDB}|Zadanie10.csproj|d:\\3pb\\zadanie10\\trojkat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04CD3278-B2A6-4D3F-A466-467222E58DDB}|Zadanie10.csproj|solutionrelative:trojkat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04CD3278-B2A6-4D3F-A466-467222E58DDB}|Zadanie10.csproj|d:\\3pb\\zadanie10\\prostokat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04CD3278-B2A6-4D3F-A466-467222E58DDB}|Zadanie10.csproj|solutionrelative:prostokat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04CD3278-B2A6-4D3F-A466-467222E58DDB}|Zadanie10.csproj|d:\\3pb\\zadanie10\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04CD3278-B2A6-4D3F-A466-467222E58DDB}|Zadanie10.csproj|solutionrelative:kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04CD3278-B2A6-4D3F-A466-467222E58DDB}|Zadanie10.csproj|d:\\3pb\\zadanie10\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,39 +46,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Kolo.cs",
               "DocumentMoniker": "D:\\3pb\\Zadanie10\\Kolo.cs",
               "RelativeDocumentMoniker": "Kolo.cs",
               "ToolTip": "D:\\3pb\\Zadanie10\\Kolo.cs",
               "RelativeToolTip": "Kolo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T15:27:20.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Trojkat.cs",
               "DocumentMoniker": "D:\\3pb\\Zadanie10\\Trojkat.cs",
               "RelativeDocumentMoniker": "Trojkat.cs",
               "ToolTip": "D:\\3pb\\Zadanie10\\Trojkat.cs",
               "RelativeToolTip": "Trojkat.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T15:24:43.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Prostokat.cs",
               "DocumentMoniker": "D:\\3pb\\Zadanie10\\Prostokat.cs",
               "RelativeDocumentMoniker": "Prostokat.cs",
               "ToolTip": "D:\\3pb\\Zadanie10\\Prostokat.cs",
               "RelativeToolTip": "Prostokat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T15:21:57.993Z",
               "EditorCaption": ""
@@ -91,7 +91,7 @@
               "RelativeDocumentMoniker": "Figura.cs",
               "ToolTip": "D:\\3pb\\Zadanie10\\Figura.cs",
               "RelativeToolTip": "Figura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T15:19:37.766Z",
               "EditorCaption": ""
@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\3pb\\Zadanie10\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T15:16:34.198Z",
               "EditorCaption": ""

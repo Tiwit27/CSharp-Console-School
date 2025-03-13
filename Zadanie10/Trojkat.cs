@@ -30,7 +30,7 @@ namespace Zadanie10
             return (Math.Sqrt(p * (p - bokA) * (p - bokB) * (p - bokC)));
         }
 
-        private bool IsGood()
+        public bool IsGood()
         {
             double[] boki = [bokA, bokB, bokC];
             boki.Order();
@@ -39,6 +39,11 @@ namespace Zadanie10
                 return false;
             }
             return true;
+        }
+
+        public override void WyswietlBoki()
+        {
+            Console.WriteLine($"Trójkąt o bokach: {bokA}, {bokB} oraz {bokC}");
         }
     }
 }

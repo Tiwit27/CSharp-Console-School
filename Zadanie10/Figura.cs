@@ -10,6 +10,7 @@ namespace Zadanie10
     {
         abstract public double Pole();
         abstract public double Obwod();
+        abstract public void WyswietlBoki();
         public void WyswietlTyp()
         {
             Console.WriteLine("Figura jest typu: " + GetType().Name);

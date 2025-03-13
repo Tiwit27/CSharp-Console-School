@@ -21,12 +21,18 @@
                 foreach(var f in figury)
                 {
                     f.WyswietlTyp();
+                    f.WyswietlBoki();
                     if(f is Trojkat)
                     {
-
+                        if(!((Trojkat)f).IsGood())
+                        {
+                            Console.WriteLine("Nie da się zbudować takiego trójkąta");
+                            Console.WriteLine("");
+                            continue;
+                        }
                     }
-                    Console.WriteLine("Pole: " + f.Pole());
-                    Console.WriteLine("Obwod: " + f.Obwod());
+                    Console.WriteLine("Pole: " + Math.Round(f.Pole(),2));
+                    Console.WriteLine("Obwod: " + Math.Round(f.Obwod(),2));
                     Console.WriteLine("");
                 }
             }

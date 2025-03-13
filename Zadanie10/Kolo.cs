@@ -22,5 +22,10 @@ namespace Zadanie10
         {
             return (Math.PI * Math.Pow(r, 2));
         }
+
+        public override void WyswietlBoki()
+        {
+            Console.WriteLine($"Koło o promieniu: {r}");
+        }
     }
 }
