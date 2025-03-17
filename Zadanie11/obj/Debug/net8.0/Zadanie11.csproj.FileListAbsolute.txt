@@ -1,0 +1,15 @@
+D:\3pb\Zadanie11\bin\Debug\net8.0\Zadanie11.exe
+D:\3pb\Zadanie11\bin\Debug\net8.0\Zadanie11.deps.json
+D:\3pb\Zadanie11\bin\Debug\net8.0\Zadanie11.runtimeconfig.json
+D:\3pb\Zadanie11\bin\Debug\net8.0\Zadanie11.dll
+D:\3pb\Zadanie11\bin\Debug\net8.0\Zadanie11.pdb
+D:\3pb\Zadanie11\obj\Debug\net8.0\Zadanie11.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Zadanie11\obj\Debug\net8.0\Zadanie11.AssemblyInfoInputs.cache
+D:\3pb\Zadanie11\obj\Debug\net8.0\Zadanie11.AssemblyInfo.cs
+D:\3pb\Zadanie11\obj\Debug\net8.0\Zadanie11.csproj.CoreCompileInputs.cache
+D:\3pb\Zadanie11\obj\Debug\net8.0\Zadanie11.sourcelink.json
+D:\3pb\Zadanie11\obj\Debug\net8.0\Zadanie11.dll
+D:\3pb\Zadanie11\obj\Debug\net8.0\refint\Zadanie11.dll
+D:\3pb\Zadanie11\obj\Debug\net8.0\Zadanie11.pdb
+D:\3pb\Zadanie11\obj\Debug\net8.0\Zadanie11.genruntimeconfig.cache
+D:\3pb\Zadanie11\obj\Debug\net8.0\ref\Zadanie11.dll

@@ -1,0 +1,15 @@
+D:\3pb\Lekcja23\bin\Debug\net8.0\Lekcja23.exe
+D:\3pb\Lekcja23\bin\Debug\net8.0\Lekcja23.deps.json
+D:\3pb\Lekcja23\bin\Debug\net8.0\Lekcja23.runtimeconfig.json
+D:\3pb\Lekcja23\bin\Debug\net8.0\Lekcja23.dll
+D:\3pb\Lekcja23\bin\Debug\net8.0\Lekcja23.pdb
+D:\3pb\Lekcja23\obj\Debug\net8.0\Lekcja23.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Lekcja23\obj\Debug\net8.0\Lekcja23.AssemblyInfoInputs.cache
+D:\3pb\Lekcja23\obj\Debug\net8.0\Lekcja23.AssemblyInfo.cs
+D:\3pb\Lekcja23\obj\Debug\net8.0\Lekcja23.csproj.CoreCompileInputs.cache
+D:\3pb\Lekcja23\obj\Debug\net8.0\Lekcja23.sourcelink.json
+D:\3pb\Lekcja23\obj\Debug\net8.0\Lekcja23.dll
+D:\3pb\Lekcja23\obj\Debug\net8.0\refint\Lekcja23.dll
+D:\3pb\Lekcja23\obj\Debug\net8.0\Lekcja23.pdb
+D:\3pb\Lekcja23\obj\Debug\net8.0\Lekcja23.genruntimeconfig.cache
+D:\3pb\Lekcja23\obj\Debug\net8.0\ref\Lekcja23.dll

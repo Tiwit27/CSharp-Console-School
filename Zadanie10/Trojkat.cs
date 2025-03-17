@@ -17,11 +17,7 @@ namespace Zadanie10
         }
         public override double Obwod()
         {
-         
-            
                 return (bokA + bokB + bokC);
-          
-         
         }
 
         public override double Pole()
