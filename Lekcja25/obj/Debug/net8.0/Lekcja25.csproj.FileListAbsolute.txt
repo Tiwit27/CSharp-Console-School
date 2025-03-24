@@ -1,0 +1,15 @@
+D:\3pb\Lekcja25\bin\Debug\net8.0\Lekcja25.exe
+D:\3pb\Lekcja25\bin\Debug\net8.0\Lekcja25.deps.json
+D:\3pb\Lekcja25\bin\Debug\net8.0\Lekcja25.runtimeconfig.json
+D:\3pb\Lekcja25\bin\Debug\net8.0\Lekcja25.dll
+D:\3pb\Lekcja25\bin\Debug\net8.0\Lekcja25.pdb
+D:\3pb\Lekcja25\obj\Debug\net8.0\Lekcja25.GeneratedMSBuildEditorConfig.editorconfig
+D:\3pb\Lekcja25\obj\Debug\net8.0\Lekcja25.AssemblyInfoInputs.cache
+D:\3pb\Lekcja25\obj\Debug\net8.0\Lekcja25.AssemblyInfo.cs
+D:\3pb\Lekcja25\obj\Debug\net8.0\Lekcja25.csproj.CoreCompileInputs.cache
+D:\3pb\Lekcja25\obj\Debug\net8.0\Lekcja25.sourcelink.json
+D:\3pb\Lekcja25\obj\Debug\net8.0\Lekcja25.dll
+D:\3pb\Lekcja25\obj\Debug\net8.0\refint\Lekcja25.dll
+D:\3pb\Lekcja25\obj\Debug\net8.0\Lekcja25.pdb
+D:\3pb\Lekcja25\obj\Debug\net8.0\Lekcja25.genruntimeconfig.cache
+D:\3pb\Lekcja25\obj\Debug\net8.0\ref\Lekcja25.dll
