@@ -1,0 +1,64 @@
+LOSOWANIE
+Data losowania: 9:51:47 3.5.2025
+---------------------------------------------------------------
+Podane liczby: 1,2,3,4,5,6
+Wylosowane liczby: 22,10,38,41,30,34
+Trafiono: 0 liczb
+
+
+LOSOWANIE
+Data losowania: 9:51:53 3.5.2025
+---------------------------------------------------------------
+Podane liczby: 1,2,3,4,5,6
+Wylosowane liczby: 22,10,38,41,30,34
+Trafiono: 0 liczb
+
+
+LOSOWANIE
+Data losowania: 9:53:0 3.5.2025
+---------------------------------------------------------------
+Podane liczby: 1,2,3,4,5,6
+Wylosowane liczby: 25,20,36,12,19,30
+Trafiono: 0 liczb
+
+
+LOSOWANIE
+Data losowania: 9:53:5 3.5.2025
+---------------------------------------------------------------
+Podane liczby: 6,5,4,3,23,1
+Wylosowane liczby: 27,9,17,28,42,12
+Trafiono: 0 liczb
+
+
+LOSOWANIE
+Data losowania: 9:53:18 3.5.2025
+---------------------------------------------------------------
+Podane liczby: 5,43,3,2,4,6
+Wylosowane liczby: 2,46,48,21,36,27
+Trafiono: 1 liczb
+
+
+LOSOWANIE
+Data losowania: 9:58:12 3.5.2025
+---------------------------------------------------------------
+Podane liczby: 1,5,4,8,9,33
+Wylosowane liczby: 24,35,19,37,20,48
+Trafiono: 0 liczb
+
+
+LOSOWANIE
+Data losowania: 9:58:34 3.5.2025
+---------------------------------------------------------------
+Podane liczby: 1,2,3,4,5,6
+Wylosowane liczby: 42,31,40,27,24,48
+Trafiono: 0 liczb
+
+
+LOSOWANIE
+Data losowania: 9:58:40 3.5.2025
+---------------------------------------------------------------
+Podane liczby: 1,2,3,4,5,6
+Wylosowane liczby: 33,28,45,22,27,3
+Trafiono: 1 liczb
+
+
