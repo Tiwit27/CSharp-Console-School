@@ -1,0 +1,18 @@
+﻿<Window x:Class="Lekcja1.MainWindow"
+        Name="window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lekcja1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Icon="grafika/emotikon.jpg">
+    <WrapPanel Name="WrapPanel">
+
+        <Button Name="Sprawdz" Height="70" Content="Przycisk Sprawdz" FontSize="18" FontWeight="Bold" Foreground="AliceBlue" Background="Black" Click="Sprawdz_Click"></Button>
+        <Button x:Name="przycisk" Content="Przycisk" Margin="20" Width="100" Height="30"/>
+        <Image x:Name="emotka" Source="./grafika/emotikon.jpg" Width="150" MouseDown="emotka_MouseDown"/>
+        <TextBox x:Name="input" KeyUp="input_KeyUp" Width="400" Height="50"/>
+    </WrapPanel>
+</Window>
