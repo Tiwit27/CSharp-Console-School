@@ -5,7 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Zadanie1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800"  Background="Bisque">
+        Name="window"
+        Title="MainWindow" Height="450" Width="800"  Background="Bisque"
+        ResizeMode="NoResize"
+        Icon="grafika/ikona.ico">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
@@ -22,7 +25,7 @@
             </Border>
             <TextBlock Text="=" FontSize="80" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <Border BorderThickness="5" BorderBrush="Black" Margin="10" Width="200">
-                <TextBox Name="wynik" FontSize="40" Padding="10"/>
+                <TextBox Name="wynik" FontSize="40" Padding="10" KeyDown="wynik_KeyDown"/>
             </Border>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
