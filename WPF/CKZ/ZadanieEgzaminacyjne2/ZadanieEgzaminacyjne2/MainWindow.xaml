@@ -1,0 +1,40 @@
+﻿<Window x:Class="ZadanieEgzaminacyjne2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZadanieEgzaminacyjne2"
+        mc:Ignorable="d"
+        Title="Nadaj Przesyłkę" Height="300" Width="auto">
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="30,0">
+            <StackPanel Orientation="Vertical" Margin="0,0,30,0">
+                <GroupBox Header="Rodzaj Przesyłki">
+                    <StackPanel Orientation="Vertical">
+                        <RadioButton Content="Pocztówka" GroupName="rodzaj"/>
+                        <RadioButton Content="List" GroupName="rodzaj"/>
+                        <RadioButton Content="Paczka" GroupName="rodzaj"/>
+                    </StackPanel>
+                </GroupBox>
+                <Button Content="Sprawdź Cenę"/>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/letter.png" Width="100"/>
+                    <TextBlock FontWeight="Bold" Text="Cena: 1,5 zł"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Margin="30,0,0,0">
+                <GroupBox Header="Dane Adresowe">
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Text="Ulica z numerem"/>
+                        <TextBox Width="200"/>
+                        <TextBlock Text="Kod pocztowy"/>
+                        <TextBox Width="200"/>
+                        <TextBlock Text="Miasto"/>
+                        <TextBox Width="200"/>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </StackPanel>
+        <Button Content="Zatwierdź"/>
+    </StackPanel>
+</Window>
