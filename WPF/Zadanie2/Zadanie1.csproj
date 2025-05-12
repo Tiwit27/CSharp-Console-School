@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="grafika\dobrze.png" />
+    <None Remove="grafika\ikona.ico" />
+    <None Remove="grafika\pytanie.png" />
+    <None Remove="grafika\zle.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="grafika\dobrze.png" />
+    <Resource Include="grafika\ikona.ico" />
+    <Resource Include="grafika\pytanie.png" />
+    <Resource Include="grafika\zle.png" />
+  </ItemGroup>
+
+</Project>
