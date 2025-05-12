@@ -1,0 +1,71 @@
+﻿<Window
+    x:Class="ZadanieEgzaminacyjne2.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ZadanieEgzaminacyjne2"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Nadaj Przesyłkę"
+    Width="550"
+    Height="300"
+    mc:Ignorable="d">
+    <StackPanel
+        Margin="20"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center"
+        Orientation="Vertical">
+        <StackPanel
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            Orientation="Horizontal">
+            <StackPanel Margin="0,0,30,0" Orientation="Vertical">
+                <GroupBox Header="Rodzaj Przesyłki">
+                    <StackPanel Orientation="Vertical">
+                        <RadioButton
+                            Name="Pocztowka"
+                            Content="Pocztówka"
+                            GroupName="rodzaj"
+                            IsChecked="True" />
+                        <RadioButton
+                            Name="List"
+                            Content="List"
+                            GroupName="rodzaj" />
+                        <RadioButton
+                            Name="Paczka"
+                            Content="Paczka"
+                            GroupName="rodzaj" />
+                    </StackPanel>
+                </GroupBox>
+                <Button Click="Button_Click" Content="Sprawdź Cenę" />
+                <StackPanel Orientation="Horizontal">
+                    <Image
+                        Name="zdjecie"
+                        Width="100"
+                        Source="/pocztowka.png" />
+                    <TextBlock
+                        Name="cena"
+                        Margin="0,10"
+                        FontSize="17"
+                        FontWeight="Bold"
+                        Text="Cena: 1,5 zł" />
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Margin="30,0,0,0" Orientation="Vertical">
+                <GroupBox Header="Dane Adresowe">
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Text="Ulica z numerem" />
+                        <TextBox Width="200" />
+                        <TextBlock Text="Kod pocztowy" />
+                        <TextBox Name="kod" Width="200" />
+                        <TextBlock Text="Miasto" />
+                        <TextBox Width="200" />
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </StackPanel>
+        <Button
+            Margin="0,20"
+            Click="Button_Click_1"
+            Content="Zatwierdź" />
+    </StackPanel>
+</Window>
