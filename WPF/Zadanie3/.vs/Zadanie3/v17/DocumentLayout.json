@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3pb\\WPF\\Zadanie3\\",
+  "WorkspaceRootPath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|d:\\3pb\\wpf\\zadanie3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|d:\\3pb\\wpf\\zadanie3\\kula.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:kula.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|d:\\3pb\\wpf\\zadanie3\\kula.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:kula.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|d:\\3pb\\wpf\\zadanie3\\stozek.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:stozek.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|d:\\3pb\\wpf\\zadanie3\\kalkulator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:kalkulator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|d:\\3pb\\wpf\\zadanie3\\walec.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:walec.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|d:\\3pb\\wpf\\zadanie3\\prostopadloscian.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:prostopadloscian.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|d:\\3pb\\wpf\\zadanie3\\kalkulator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\wpf\\zadanie3\\kalkulator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:kalkulator.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|d:\\3pb\\wpf\\zadanie3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\wpf\\zadanie3\\kalkulator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:kalkulator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\wpf\\zadanie3\\ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:ifigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\wpf\\zadanie3\\prostopadloscian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:prostopadloscian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\wpf\\zadanie3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\wpf\\zadanie3\\kula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:kula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\wpf\\zadanie3\\stozek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:stozek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\wpf\\zadanie3\\walec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:walec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\wpf\\zadanie3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A0CD0CE5-AFFD-43B9-895B-41DB8C1FC19C}|Zadanie3.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -50,6 +50,18 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
@@ -62,85 +74,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Kula.xaml.cs",
-              "DocumentMoniker": "D:\\3pb\\WPF\\Zadanie3\\Kula.xaml.cs",
-              "RelativeDocumentMoniker": "Kula.xaml.cs",
-              "ToolTip": "D:\\3pb\\WPF\\Zadanie3\\Kula.xaml.cs",
-              "RelativeToolTip": "Kula.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:18:04.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Stozek.xaml",
-              "DocumentMoniker": "D:\\3pb\\WPF\\Zadanie3\\Stozek.xaml",
-              "RelativeDocumentMoniker": "Stozek.xaml",
-              "ToolTip": "D:\\3pb\\WPF\\Zadanie3\\Stozek.xaml",
-              "RelativeToolTip": "Stozek.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-15T08:10:56.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Kula.xaml",
-              "DocumentMoniker": "D:\\3pb\\WPF\\Zadanie3\\Kula.xaml",
-              "RelativeDocumentMoniker": "Kula.xaml",
-              "ToolTip": "D:\\3pb\\WPF\\Zadanie3\\Kula.xaml",
-              "RelativeToolTip": "Kula.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-15T08:10:49.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Walec.xaml",
-              "DocumentMoniker": "D:\\3pb\\WPF\\Zadanie3\\Walec.xaml",
-              "RelativeDocumentMoniker": "Walec.xaml",
-              "ToolTip": "D:\\3pb\\WPF\\Zadanie3\\Walec.xaml",
-              "RelativeToolTip": "Walec.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-15T08:10:41.437Z",
+              "Title": "Kula.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Kula.cs",
+              "RelativeDocumentMoniker": "Kula.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Kula.cs",
+              "RelativeToolTip": "Kula.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:38:31.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Prostopadloscian.xaml",
-              "DocumentMoniker": "D:\\3pb\\WPF\\Zadanie3\\Prostopadloscian.xaml",
-              "RelativeDocumentMoniker": "Prostopadloscian.xaml",
-              "ToolTip": "D:\\3pb\\WPF\\Zadanie3\\Prostopadloscian.xaml",
-              "RelativeToolTip": "Prostopadloscian.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-15T08:10:35.828Z",
+              "Title": "Stozek.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Stozek.cs",
+              "RelativeDocumentMoniker": "Stozek.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Stozek.cs",
+              "RelativeToolTip": "Stozek.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:25:37.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Walec.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Walec.cs",
+              "RelativeDocumentMoniker": "Walec.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Walec.cs",
+              "RelativeToolTip": "Walec.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:19:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prostopadloscian.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Prostopadloscian.cs",
+              "RelativeDocumentMoniker": "Prostopadloscian.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Prostopadloscian.cs",
+              "RelativeToolTip": "Prostopadloscian.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:17:08.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFigura.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\IFigura.cs",
+              "RelativeDocumentMoniker": "IFigura.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\IFigura.cs",
+              "RelativeToolTip": "IFigura.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:56:35.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Kalkulator.xaml.cs",
-              "DocumentMoniker": "D:\\3pb\\WPF\\Zadanie3\\Kalkulator.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Kalkulator.xaml.cs",
               "RelativeDocumentMoniker": "Kalkulator.xaml.cs",
-              "ToolTip": "D:\\3pb\\WPF\\Zadanie3\\Kalkulator.xaml.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Kalkulator.xaml.cs",
               "RelativeToolTip": "Kalkulator.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T07:30:26.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Kalkulator.xaml",
-              "DocumentMoniker": "D:\\3pb\\WPF\\Zadanie3\\Kalkulator.xaml",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Kalkulator.xaml",
               "RelativeDocumentMoniker": "Kalkulator.xaml",
-              "ToolTip": "D:\\3pb\\WPF\\Zadanie3\\Kalkulator.xaml",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\Kalkulator.xaml",
               "RelativeToolTip": "Kalkulator.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-15T07:23:37.515Z",
@@ -150,9 +166,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\3pb\\WPF\\Zadanie3\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\3pb\\WPF\\Zadanie3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-15T07:04:00.394Z",
@@ -160,13 +176,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\3pb\\WPF\\Zadanie3\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\3pb\\WPF\\Zadanie3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\WPF\\Zadanie3\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T07:03:57.402Z",
               "EditorCaption": ""

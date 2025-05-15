@@ -25,3 +25,26 @@ D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Kula.g.cs
 D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Prostopadloscian.g.cs
 D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Stozek.g.cs
 D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Walec.g.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\bin\Debug\net8.0-windows\Zadanie3.exe
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\bin\Debug\net8.0-windows\Zadanie3.deps.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\bin\Debug\net8.0-windows\Zadanie3.runtimeconfig.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\bin\Debug\net8.0-windows\Zadanie3.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\bin\Debug\net8.0-windows\Zadanie3.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Kalkulator.g.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3_MarkupCompile.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3_MarkupCompile.lref
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Kalkulator.baml
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3.g.resources
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3.AssemblyInfoInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3.AssemblyInfo.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3.sourcelink.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\refint\Zadanie3.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3.genruntimeconfig.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\obj\Debug\net8.0-windows\ref\Zadanie3.dll

@@ -21,21 +21,26 @@ namespace Zadanie3
 
         private void Border_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            //switch(((Border)sender).Name)
-            //{
-            //    case "prostopadloscian":
-            //        new Prostopadloscian.
-            //        break;
-            //    case "walec":
-            //        Kalkulator.RunCalculator(Walec.pole, Walec.objetosc, Walec.imgPath);
-            //        break;
-            //    case "stozek":
-            //        Kalkulator.RunCalculator(Stozek.pole, Stozek.objetosc, Stozek.imgPath);
-            //        break;
-            //    case "kula":
-            //        Kalkulator.RunCalculator(Kula.pole, Kula.objetosc, Kula.imgPath);
-            //        break;
-            //}
+            IFigura figura;
+            switch (((Border)sender).Name)
+            {
+                case "prostopadloscian":
+                    figura = new Prostopadloscian();
+                    figura.GenerateWindow();
+                    break;
+                case "walec":
+                    figura = new Walec();
+                    figura.GenerateWindow();
+                    break;
+                case "stozek":
+                    figura = new Stozek();
+                    figura.GenerateWindow();
+                    break;
+                case "kula":
+                    figura = new Kula();
+                    figura.GenerateWindow();
+                    break;
+            }
         }
     }
 }

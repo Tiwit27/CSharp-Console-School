@@ -13,3 +13,18 @@ D:\3pb\Lekcja23\obj\Debug\net8.0\refint\Lekcja23.dll
 D:\3pb\Lekcja23\obj\Debug\net8.0\Lekcja23.pdb
 D:\3pb\Lekcja23\obj\Debug\net8.0\Lekcja23.genruntimeconfig.cache
 D:\3pb\Lekcja23\obj\Debug\net8.0\ref\Lekcja23.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\bin\Debug\net8.0\Lekcja23.exe
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\bin\Debug\net8.0\Lekcja23.deps.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\bin\Debug\net8.0\Lekcja23.runtimeconfig.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\bin\Debug\net8.0\Lekcja23.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\bin\Debug\net8.0\Lekcja23.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\obj\Debug\net8.0\Lekcja23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\obj\Debug\net8.0\Lekcja23.AssemblyInfoInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\obj\Debug\net8.0\Lekcja23.AssemblyInfo.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\obj\Debug\net8.0\Lekcja23.csproj.CoreCompileInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\obj\Debug\net8.0\Lekcja23.sourcelink.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\obj\Debug\net8.0\Lekcja23.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\obj\Debug\net8.0\refint\Lekcja23.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\obj\Debug\net8.0\Lekcja23.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\obj\Debug\net8.0\Lekcja23.genruntimeconfig.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\Lekcja23\obj\Debug\net8.0\ref\Lekcja23.dll

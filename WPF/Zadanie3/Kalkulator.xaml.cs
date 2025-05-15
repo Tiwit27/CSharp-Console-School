@@ -16,17 +16,34 @@ namespace Zadanie3
 {
     public partial class Kalkulator : Window
     {
+        public IFigura Figura { get; set; }
         public Kalkulator()
         {
             InitializeComponent();
         }
-        public static void RunCalculator(string pole, string objetosc, string imgPath)
+
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            var k = new Kalkulator();
-            k.wzor_pole.Text = pole;
-            k.wzor_objetosc.Text = objetosc;
-            k.grafika.Source = new BitmapImage(new Uri(imgPath, UriKind.Relative));
-            k.Show();
+            List<double> values = new List<double>();
+            try
+            {
+                for (int i = 1; i < pola.Children.Count; i += 2)
+                {
+                    values.Add(double.Parse(((TextBox)pola.Children[i]).Text));
+                }
+                var pole = Math.Round(Figura.ObliczPole(values), 2);
+                p.Text = $"P = {pole}";
+                var objetosc = Math.Round(Figura.ObliczObjetosc(values), 2);
+                v.Text = $"V = {objetosc}";
+            }
+            catch(Exception ex)
+            {
+                for (int i = 1; i < pola.Children.Count; i += 2)
+                {
+                    ((TextBox)pola.Children[i]).Text = "";
+                }
+                values.Clear();
+            }
         }
     }
 }

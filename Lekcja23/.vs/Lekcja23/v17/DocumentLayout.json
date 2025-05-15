@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3pb\\Lekcja23\\",
+  "WorkspaceRootPath": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|d:\\3pb\\lekcja23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\lekcja23\\zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|solutionrelative:zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\lekcja23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|d:\\3pb\\lekcja23\\krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\lekcja23\\krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|solutionrelative:krowa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|d:\\3pb\\lekcja23\\kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\lekcja23\\kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|solutionrelative:kot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|d:\\3pb\\lekcja23\\pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|c:\\users\\lojek\\desktop\\programowanie\\moje projekty\\c#\\lekcje_szkola\\csharp-console-school\\lekcja23\\pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|solutionrelative:pies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|d:\\3pb\\lekcja23\\zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B67FD01-7211-46E0-AAE0-8607629D7A26}|Lekcja23.csproj|solutionrelative:zwierze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -46,63 +58,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Krowa.cs",
-              "DocumentMoniker": "D:\\3pb\\Lekcja23\\Krowa.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\Krowa.cs",
               "RelativeDocumentMoniker": "Krowa.cs",
-              "ToolTip": "D:\\3pb\\Lekcja23\\Krowa.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\Krowa.cs",
               "RelativeToolTip": "Krowa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T08:31:04.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Kot.cs",
-              "DocumentMoniker": "D:\\3pb\\Lekcja23\\Kot.cs",
-              "RelativeDocumentMoniker": "Kot.cs",
-              "ToolTip": "D:\\3pb\\Lekcja23\\Kot.cs",
-              "RelativeToolTip": "Kot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T08:30:33.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T08:31:04.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Pies.cs",
-              "DocumentMoniker": "D:\\3pb\\Lekcja23\\Pies.cs",
-              "RelativeDocumentMoniker": "Pies.cs",
-              "ToolTip": "D:\\3pb\\Lekcja23\\Pies.cs",
-              "RelativeToolTip": "Pies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Title": "Kot.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\Kot.cs",
+              "RelativeDocumentMoniker": "Kot.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\Kot.cs",
+              "RelativeToolTip": "Kot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T08:28:32.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T08:30:33.648Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Pies.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\Pies.cs",
+              "RelativeDocumentMoniker": "Pies.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\Pies.cs",
+              "RelativeToolTip": "Pies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:28:32.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Zwierze.cs",
-              "DocumentMoniker": "D:\\3pb\\Lekcja23\\Zwierze.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\Zwierze.cs",
               "RelativeDocumentMoniker": "Zwierze.cs",
-              "ToolTip": "D:\\3pb\\Lekcja23\\Zwierze.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\Zwierze.cs",
               "RelativeToolTip": "Zwierze.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T08:25:54.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\3pb\\Lekcja23\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\3pb\\Lekcja23\\Program.cs",
+              "ToolTip": "C:\\Users\\lojek\\Desktop\\Programowanie\\Moje projekty\\C#\\Lekcje_Szkola\\CSharp-Console-School\\Lekcja23\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

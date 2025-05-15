@@ -10,36 +10,12 @@
     <Compile Update="Kalkulator.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Kula.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="Prostopadloscian.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="Stozek.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="Walec.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Kalkulator.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Kula.xaml">
-      <SubType>Designer</SubType>
-    </Page>
     <Page Update="MainWindow.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Prostopadloscian.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Stozek.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Walec.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
