@@ -8,4 +8,24 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="grafika\dobrze.png" />
+    <None Remove="grafika\ikona.png" />
+    <None Remove="grafika\kalkulator.png" />
+    <None Remove="grafika\kot.jpg" />
+    <None Remove="grafika\pytanie.png" />
+    <None Remove="grafika\screen.png" />
+    <None Remove="grafika\zle.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="grafika\dobrze.png" />
+    <Resource Include="grafika\ikona.png" />
+    <Resource Include="grafika\kalkulator.png" />
+    <Resource Include="grafika\kot.jpg" />
+    <Resource Include="grafika\pytanie.png" />
+    <Resource Include="grafika\screen.png" />
+    <Resource Include="grafika\zle.png" />
+  </ItemGroup>
+
 </Project>

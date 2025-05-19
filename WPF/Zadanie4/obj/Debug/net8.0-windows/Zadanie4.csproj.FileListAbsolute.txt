@@ -19,3 +19,24 @@ D:\3pb\WPF\Zadanie4\obj\Debug\net8.0-windows\refint\Zadanie4.dll
 D:\3pb\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.pdb
 D:\3pb\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.genruntimeconfig.cache
 D:\3pb\WPF\Zadanie4\obj\Debug\net8.0-windows\ref\Zadanie4.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\bin\Debug\net8.0-windows\Zadanie4.exe
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\bin\Debug\net8.0-windows\Zadanie4.deps.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\bin\Debug\net8.0-windows\Zadanie4.runtimeconfig.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\bin\Debug\net8.0-windows\Zadanie4.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\bin\Debug\net8.0-windows\Zadanie4.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4_MarkupCompile.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4_MarkupCompile.lref
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.g.resources
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.AssemblyInfoInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.AssemblyInfo.cs
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.sourcelink.json
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\refint\Zadanie4.dll
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.pdb
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\Zadanie4.genruntimeconfig.cache
+C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie4\obj\Debug\net8.0-windows\ref\Zadanie4.dll
