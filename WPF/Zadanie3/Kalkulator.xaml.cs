@@ -29,7 +29,12 @@ namespace Zadanie3
             {
                 for (int i = 1; i < pola.Children.Count; i += 2)
                 {
-                    values.Add(double.Parse(((TextBox)pola.Children[i]).Text));
+                    var liczba = double.Parse(((TextBox)pola.Children[i]).Text);
+                    if(liczba <= 0)
+                    {
+                        throw new Exception();
+                    }
+                    values.Add(liczba);
                 }
                 var pole = Math.Round(Figura.ObliczPole(values), 2);
                 p.Text = $"P = {pole}";
@@ -43,6 +48,8 @@ namespace Zadanie3
                     ((TextBox)pola.Children[i]).Text = "";
                 }
                 values.Clear();
+                p.Text = "P = ?";
+                v.Text = "V = ?";
             }
         }
     }

@@ -21,10 +21,6 @@ D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Zadanie3.genruntimeconfig.cache
 D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\ref\Zadanie3.dll
 D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Kalkulator.g.cs
 D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Kalkulator.baml
-D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Kula.g.cs
-D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Prostopadloscian.g.cs
-D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Stozek.g.cs
-D:\3pb\WPF\Zadanie3\obj\Debug\net8.0-windows\Walec.g.cs
 C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\bin\Debug\net8.0-windows\Zadanie3.exe
 C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\bin\Debug\net8.0-windows\Zadanie3.deps.json
 C:\Users\lojek\Desktop\Programowanie\Moje projekty\C#\Lekcje_Szkola\CSharp-Console-School\WPF\Zadanie3\bin\Debug\net8.0-windows\Zadanie3.runtimeconfig.json
