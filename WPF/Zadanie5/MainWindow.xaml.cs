@@ -27,6 +27,10 @@ namespace Zadanie5
             }
             try
             {
+                if (String.IsNullOrEmpty(tb.Text))
+                {
+                    tb.Text = 0.ToString();
+                }
                 double defaultValue = double.Parse(tb.Text);
                 switch (tb.Name)
                 {
