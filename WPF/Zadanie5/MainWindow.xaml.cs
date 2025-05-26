@@ -111,7 +111,7 @@ namespace Zadanie5
         {
             foreach (char c in e.Text)
             {
-                if (!Char.IsDigit(c) && c != '-')
+                if (!Char.IsDigit(c) && c != '-' && c != ',')
                 {
                     e.Handled = true;
                     break;
