@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Grafika\img1.jpg" />
+    <None Remove="Grafika\img2.jpg" />
+    <None Remove="Grafika\img3.jpg" />
+    <None Remove="Grafika\img4.jpg" />
+    <None Remove="Grafika\img5.jpg" />
+    <None Remove="Grafika\img6.jpg" />
+    <None Remove="Grafika\img7.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Grafika\img1.jpg" />
+    <Resource Include="Grafika\img2.jpg" />
+    <Resource Include="Grafika\img3.jpg" />
+    <Resource Include="Grafika\img4.jpg" />
+    <Resource Include="Grafika\img5.jpg" />
+    <Resource Include="Grafika\img6.jpg" />
+    <Resource Include="Grafika\img7.jpg" />
+  </ItemGroup>
+
+</Project>
