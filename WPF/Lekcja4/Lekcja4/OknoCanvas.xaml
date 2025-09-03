@@ -1,0 +1,13 @@
+﻿<Window x:Class="Lekcja4.OknoCanvas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lekcja4"
+        mc:Ignorable="d"
+        Title="OknoCanvas" Height="450" Width="800">
+    <Canvas>
+        <TextBlock Text="TextBox 1" FontSize="30" Canvas.Left="150" Canvas.Top="120"/>
+        <TextBlock Text="TextBox 1" FontSize="30" Canvas.Left="190" Canvas.Top="220"/>
+    </Canvas>
+</Window>

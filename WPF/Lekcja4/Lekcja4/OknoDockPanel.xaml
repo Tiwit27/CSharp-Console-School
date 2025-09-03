@@ -1,0 +1,18 @@
+﻿<Window x:Class="Lekcja4.OknoDockPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lekcja4"
+        mc:Ignorable="d"
+        Title="OknoDockPanel" Height="450" Width="800">
+    <DockPanel>
+        <TextBlock Text="button1" DockPanel.Dock="Top" FontSize="50" TextAlignment="Center" Background="Red"/>
+        <TextBlock Text="button2" DockPanel.Dock="Left" FontSize="50" TextAlignment="Center" Background="Blue"/>
+        <TextBlock Text="button3" DockPanel.Dock="Right" FontSize="50" TextAlignment="Center" Background="Green"/>
+        <TextBlock Text="button4" DockPanel.Dock="Bottom" FontSize="50" TextAlignment="Center" Background="Yellow"/>
+        <TextBlock Text="button5" DockPanel.Dock="Top" FontSize="50" TextAlignment="Center" Background="Pink"/>
+        <TextBlock Text="button6" DockPanel.Dock="Left" FontSize="50" TextAlignment="Center" Background="Orange"/>
+        <TextBlock Text="button7" DockPanel.Dock="Right" FontSize="50" TextAlignment="Center" Background="CornflowerBlue"/>
+    </DockPanel>
+</Window>

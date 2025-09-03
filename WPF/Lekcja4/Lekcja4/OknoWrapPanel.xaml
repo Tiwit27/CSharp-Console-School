@@ -1,0 +1,18 @@
+﻿<Window x:Class="Lekcja4.OknoWrapPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lekcja4"
+        mc:Ignorable="d"
+        Title="OknoWrapPanel" Height="450" Width="800">
+    <WrapPanel Orientation="Horizontal">
+        <TextBlock Text="TextBox 1" FontSize="30" Margin="10"/>
+        <TextBlock Text="TextBox 2" FontSize="30" Margin="10"/>
+        <TextBlock Text="TextBox 3" FontSize="30" Margin="10"/>
+        <TextBlock Text="TextBox 4" FontSize="30" Margin="10"/>
+        <TextBlock Text="TextBox 5" FontSize="30" Margin="10"/>
+        <TextBlock Text="TextBox 6" FontSize="30" Margin="10"/>
+        <TextBlock Text="TextBox 7" FontSize="30" Margin="10"/>
+    </WrapPanel>
+</Window>
