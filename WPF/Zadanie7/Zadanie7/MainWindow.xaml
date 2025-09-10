@@ -6,15 +6,36 @@
         xmlns:local="clr-namespace:Zadanie7"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="NoHoverButtonStyle" TargetType="Button">
+            <Setter Property="OverridesDefaultStyle" Value="True"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border 
+                            Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}">
+                            <ContentPresenter 
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition/>
             <RowDefinition Height="2*"/>
+            <RowDefinition/>
         </Grid.RowDefinitions>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-            <Image x:Name="face" Source="/graphics/good.png" Margin="10" VerticalAlignment="Center"/>
-            <TextBlock x:Name="text" Text="DOBRZE" FontSize="40" VerticalAlignment="Center" Foreground="Green"/>
+            <Image x:Name="face" Margin="10" VerticalAlignment="Center"/>
+            <TextBlock x:Name="text" Text="" FontSize="40" VerticalAlignment="Center" Foreground="Green"/>
         </StackPanel>
         <TextBlock x:Name="colorText" Text="COLOR TEXT" Grid.Row="1" FontSize="40" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold"/>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="2">
@@ -23,9 +44,20 @@
                 Width="120" 
                 Height="120"
                 Margin="10"
-                Click="Color_Click"/>
-            <Button x:Name="ndColor" Width="120" Height="120" Margin="10" Click="Color_Click"/>
-            <Button x:Name="rdColor" Width="120" Height="120" Margin="10" Click="Color_Click"/>
+                Click="Color_Click"
+                Style="{StaticResource NoHoverButtonStyle}"
+                BorderBrush="Black"
+                BorderThickness="3"
+                />
+            <Button x:Name="ndColor" Width="120" Height="120" Margin="10" Click="Color_Click" Style="{StaticResource NoHoverButtonStyle}" BorderBrush="Black"
+BorderThickness="3"/>
+            <Button x:Name="rdColor" Width="120" Height="120" Margin="10" Click="Color_Click" Style="{StaticResource NoHoverButtonStyle}" BorderBrush="Black"
+BorderThickness="3"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Dobre: 0" Name="goodScore" FontSize="25" Margin="10,10,25,10" Foreground="Green" VerticalAlignment="Center"/>
+            <TextBlock Text="Złe: 0" Name="badScore" FontSize="25" Margin="25,10,50,10" Foreground="Red" VerticalAlignment="Center"/>
+            <Button Content="RESET" Name="reset" FontSize="25" Margin="10" Padding="6" VerticalAlignment="Center" Click="reset_Click"/>
         </StackPanel>
     </Grid>
 </Window>
