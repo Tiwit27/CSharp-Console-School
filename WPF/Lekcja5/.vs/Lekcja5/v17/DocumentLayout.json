@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programowanie\\C#\\WPF\\Lekcja5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A57613-D99B-4E42-84F1-4D1608F71649}|Lekcja5\\Lekcja5.csproj|c:\\programowanie\\c#\\wpf\\lekcja5\\lekcja5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A57613-D99B-4E42-84F1-4D1608F71649}|Lekcja5\\Lekcja5.csproj|solutionrelative:lekcja5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A57613-D99B-4E42-84F1-4D1608F71649}|Lekcja5\\Lekcja5.csproj|c:\\programowanie\\c#\\wpf\\lekcja5\\lekcja5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48A57613-D99B-4E42-84F1-4D1608F71649}|Lekcja5\\Lekcja5.csproj|solutionrelative:lekcja5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Programowanie\\C#\\WPF\\Lekcja5\\Lekcja5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lekcja5\\MainWindow.xaml",
+              "ToolTip": "C:\\Programowanie\\C#\\WPF\\Lekcja5\\Lekcja5\\MainWindow.xaml",
+              "RelativeToolTip": "Lekcja5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T12:21:13.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programowanie\\C#\\WPF\\Lekcja5\\Lekcja5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Lekcja5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Programowanie\\C#\\WPF\\Lekcja5\\Lekcja5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Lekcja5\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T12:21:10.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

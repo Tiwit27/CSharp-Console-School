@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programowanie\\C#\\Biblioteki\\MathLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD82A49-5E2C-40FA-95AF-898389BB6727}|MathLib.csproj|c:\\programowanie\\c#\\biblioteki\\mathlib\\mymath2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD82A49-5E2C-40FA-95AF-898389BB6727}|MathLib.csproj|solutionrelative:mymath2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD82A49-5E2C-40FA-95AF-898389BB6727}|MathLib.csproj|c:\\programowanie\\c#\\biblioteki\\mathlib\\mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD82A49-5E2C-40FA-95AF-898389BB6727}|MathLib.csproj|solutionrelative:mymath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyMath2.cs",
+              "DocumentMoniker": "C:\\Programowanie\\C#\\Biblioteki\\MathLib\\MyMath2.cs",
+              "RelativeDocumentMoniker": "MyMath2.cs",
+              "ToolTip": "C:\\Programowanie\\C#\\Biblioteki\\MathLib\\MyMath2.cs",
+              "RelativeToolTip": "MyMath2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:05:06.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMath.cs",
+              "DocumentMoniker": "C:\\Programowanie\\C#\\Biblioteki\\MathLib\\MyMath.cs",
+              "RelativeDocumentMoniker": "MyMath.cs",
+              "ToolTip": "C:\\Programowanie\\C#\\Biblioteki\\MathLib\\MyMath.cs",
+              "RelativeToolTip": "MyMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:48:36.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
