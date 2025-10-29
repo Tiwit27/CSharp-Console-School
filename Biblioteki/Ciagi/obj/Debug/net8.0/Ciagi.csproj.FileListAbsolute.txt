@@ -1,0 +1,12 @@
+C:\Programowanie\C#\Biblioteki\Ciagi\bin\Debug\net8.0\Ciagi.deps.json
+C:\Programowanie\C#\Biblioteki\Ciagi\bin\Debug\net8.0\Ciagi.dll
+C:\Programowanie\C#\Biblioteki\Ciagi\bin\Debug\net8.0\Ciagi.pdb
+C:\Programowanie\C#\Biblioteki\Ciagi\obj\Debug\net8.0\Ciagi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programowanie\C#\Biblioteki\Ciagi\obj\Debug\net8.0\Ciagi.AssemblyInfoInputs.cache
+C:\Programowanie\C#\Biblioteki\Ciagi\obj\Debug\net8.0\Ciagi.AssemblyInfo.cs
+C:\Programowanie\C#\Biblioteki\Ciagi\obj\Debug\net8.0\Ciagi.csproj.CoreCompileInputs.cache
+C:\Programowanie\C#\Biblioteki\Ciagi\obj\Debug\net8.0\Ciagi.sourcelink.json
+C:\Programowanie\C#\Biblioteki\Ciagi\obj\Debug\net8.0\Ciagi.dll
+C:\Programowanie\C#\Biblioteki\Ciagi\obj\Debug\net8.0\refint\Ciagi.dll
+C:\Programowanie\C#\Biblioteki\Ciagi\obj\Debug\net8.0\Ciagi.pdb
+C:\Programowanie\C#\Biblioteki\Ciagi\obj\Debug\net8.0\ref\Ciagi.dll

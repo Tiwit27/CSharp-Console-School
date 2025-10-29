@@ -1,0 +1,17 @@
+﻿<Window x:Class="Zadanie9.CiagFibonacciego"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie9"
+        mc:Ignorable="d"
+        Title="CiagFibonacciego" Height="450" Width="800">
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+            <TextBlock Text="Numer wyrazu: " FontSize="15"  Width="150" VerticalAlignment="Center"/>
+            <TextBox Name="numer" VerticalAlignment="Center" FontSize="24" Width="150" Margin="10,0,10,0" />
+        </StackPanel>
+        <Button Name="Display" FontSize="18" Content="Wyświetl" Width="100" Margin="0,20,0,0" Padding="5" Click="Display_Click"/>
+        <TextBlock Name="result" FontSize="20"/>
+    </StackPanel>
+</Window>
