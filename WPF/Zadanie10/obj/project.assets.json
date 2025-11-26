@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {
+    "net9.0-windows7.0": {
       "BouncyCastle.Cryptography/2.6.2": {
         "type": "package",
         "compile": {
@@ -83,12 +83,12 @@
           "ZstdSharp.Port": "0.8.6"
         },
         "compile": {
-          "lib/net8.0/MySql.Data.dll": {
+          "lib/net9.0/MySql.Data.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net8.0/MySql.Data.dll": {
+          "lib/net9.0/MySql.Data.dll": {
             "related": ".xml"
           }
         },
@@ -234,10 +234,10 @@
       "ZstdSharp.Port/0.8.6": {
         "type": "package",
         "compile": {
-          "lib/net8.0/ZstdSharp.dll": {}
+          "lib/net9.0/ZstdSharp.dll": {}
         },
         "runtime": {
-          "lib/net8.0/ZstdSharp.dll": {}
+          "lib/net9.0/ZstdSharp.dll": {}
         }
       }
     }
@@ -589,7 +589,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": [
+    "net9.0-windows7.0": [
       "MySql.Data >= 9.5.0"
     ]
   },
@@ -600,9 +600,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programowanie\\C#\\WPF\\Zadanie10\\Zadanie10.csproj",
-      "projectName": "Zadanie10",
-      "projectPath": "C:\\Programowanie\\C#\\WPF\\Zadanie10\\Zadanie10.csproj",
+      "projectUniqueName": "C:\\Programowanie\\C#\\WPF\\Zadanie10\\BazyDanych.csproj",
+      "projectName": "BazyDanych",
+      "projectPath": "C:\\Programowanie\\C#\\WPF\\Zadanie10\\BazyDanych.csproj",
       "packagesPath": "C:\\Users\\lojek\\.nuget\\packages\\",
       "outputPath": "C:\\Programowanie\\C#\\WPF\\Zadanie10\\obj\\",
       "projectStyle": "PackageReference",
@@ -615,15 +615,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0-windows"
+        "net9.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
           "projectReferences": {}
         }
       },
@@ -640,8 +640,8 @@
       "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net8.0-windows7.0": {
-        "targetAlias": "net8.0-windows",
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows",
         "dependencies": {
           "MySql.Data": {
             "target": "Package",
@@ -670,5 +670,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Podczas pobierania danych o lukach w zabezpieczeniach pakietu wystąpił błąd: Nie można załadować indeksu usługi dla źródła https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

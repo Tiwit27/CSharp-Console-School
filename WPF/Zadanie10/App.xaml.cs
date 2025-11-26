@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Zadanie10
+namespace BazyDanych
 {
     /// <summary>
     /// Interaction logic for App.xaml

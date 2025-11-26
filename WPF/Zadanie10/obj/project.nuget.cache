@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VSxENbTkEBg=",
+  "dgSpecHash": "wImMicyH/K0=",
   "success": true,
-  "projectFilePath": "C:\\Programowanie\\C#\\WPF\\Zadanie10\\Zadanie10.csproj",
+  "projectFilePath": "C:\\Programowanie\\C#\\WPF\\Zadanie10\\BazyDanych.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lojek\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\lojek\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
@@ -18,5 +18,15 @@
     "C:\\Users\\lojek\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512",
     "C:\\Users\\lojek\\.nuget\\packages\\zstdsharp.port\\0.8.6\\zstdsharp.port.0.8.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Podczas pobierania danych o lukach w zabezpieczeniach pakietu wystąpił błąd: Nie można załadować indeksu usługi dla źródła https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Programowanie\\C#\\WPF\\Zadanie10\\BazyDanych.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Programowanie\\C#\\WPF\\Zadanie10\\BazyDanych.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

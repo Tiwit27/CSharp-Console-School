@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Grafika\row-1-column-1.jpg" />
+    <None Remove="Grafika\row-1-column-2.jpg" />
+    <None Remove="Grafika\row-1-column-3.jpg" />
+    <None Remove="Grafika\row-1-column-4.jpg" />
+    <None Remove="Grafika\row-2-column-1.jpg" />
+    <None Remove="Grafika\row-2-column-2.jpg" />
+    <None Remove="Grafika\row-2-column-3.jpg" />
+    <None Remove="Grafika\row-2-column-4.jpg" />
+    <None Remove="Grafika\row-3-column-1.jpg" />
+    <None Remove="Grafika\row-3-column-2.jpg" />
+    <None Remove="Grafika\row-3-column-3.jpg" />
+    <None Remove="Grafika\row-3-column-4.jpg" />
+    <None Remove="Grafika\row-4-column-1.jpg" />
+    <None Remove="Grafika\row-4-column-2.jpg" />
+    <None Remove="Grafika\row-4-column-3.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Grafika\row-1-column-1.jpg" />
+    <Resource Include="Grafika\row-1-column-2.jpg" />
+    <Resource Include="Grafika\row-1-column-3.jpg" />
+    <Resource Include="Grafika\row-1-column-4.jpg" />
+    <Resource Include="Grafika\row-2-column-1.jpg" />
+    <Resource Include="Grafika\row-2-column-2.jpg" />
+    <Resource Include="Grafika\row-2-column-3.jpg" />
+    <Resource Include="Grafika\row-2-column-4.jpg" />
+    <Resource Include="Grafika\row-3-column-1.jpg" />
+    <Resource Include="Grafika\row-3-column-2.jpg" />
+    <Resource Include="Grafika\row-3-column-3.jpg" />
+    <Resource Include="Grafika\row-3-column-4.jpg" />
+    <Resource Include="Grafika\row-4-column-1.jpg" />
+    <Resource Include="Grafika\row-4-column-2.jpg" />
+    <Resource Include="Grafika\row-4-column-3.jpg" />
+  </ItemGroup>
+
+</Project>

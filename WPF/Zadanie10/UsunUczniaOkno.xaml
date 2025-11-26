@@ -1,0 +1,18 @@
+﻿<Window x:Class="BazyDanych.UsunUczniaOkno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BazyDanych"
+        mc:Ignorable="d"
+        Title="UsunUczniaOkno" Height="450" Width="800">
+    <WrapPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="Usuń ucznia o id: " FontSize="50"/>
+            <TextBox Name="usun_id" Width="80" Height="80" FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        </WrapPanel>
+
+        <Button Name="usunBtn" Width="200" Height="50" Content="Usuń" FontSize="30" FontWeight="Bold" Click="usunBtn_Click"/>
+    </WrapPanel>
+
+</Window>
