@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7ECB80B-7D7D-4255-BBFF-EF8D8DF6F344}|Zadanie13.csproj|c:\\programowanie\\c#\\wpf\\zadanie13\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7ECB80B-7D7D-4255-BBFF-EF8D8DF6F344}|Zadanie13.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7ECB80B-7D7D-4255-BBFF-EF8D8DF6F344}|Zadanie13.csproj|c:\\programowanie\\c#\\wpf\\zadanie13\\elementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7ECB80B-7D7D-4255-BBFF-EF8D8DF6F344}|Zadanie13.csproj|solutionrelative:elementstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7ECB80B-7D7D-4255-BBFF-EF8D8DF6F344}|Zadanie13.csproj|c:\\programowanie\\c#\\wpf\\zadanie13\\emptyslot.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7ECB80B-7D7D-4255-BBFF-EF8D8DF6F344}|Zadanie13.csproj|solutionrelative:emptyslot.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7ECB80B-7D7D-4255-BBFF-EF8D8DF6F344}|Zadanie13.csproj|c:\\programowanie\\c#\\wpf\\zadanie13\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A7ECB80B-7D7D-4255-BBFF-EF8D8DF6F344}|Zadanie13.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7ECB80B-7D7D-4255-BBFF-EF8D8DF6F344}|Zadanie13.csproj|c:\\programowanie\\c#\\wpf\\zadanie13\\emptyslot.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7ECB80B-7D7D-4255-BBFF-EF8D8DF6F344}|Zadanie13.csproj|solutionrelative:emptyslot.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElementState.cs",
+              "DocumentMoniker": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\ElementState.cs",
+              "RelativeDocumentMoniker": "ElementState.cs",
+              "ToolTip": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\ElementState.cs",
+              "RelativeToolTip": "ElementState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:42:08.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmptySlot.xaml.cs",
+              "DocumentMoniker": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\EmptySlot.xaml.cs",
+              "RelativeDocumentMoniker": "EmptySlot.xaml.cs",
+              "ToolTip": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\EmptySlot.xaml.cs",
+              "RelativeToolTip": "EmptySlot.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T13:02:37.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmptySlot.xaml",
+              "DocumentMoniker": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\EmptySlot.xaml",
+              "RelativeDocumentMoniker": "EmptySlot.xaml",
+              "ToolTip": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\EmptySlot.xaml",
+              "RelativeToolTip": "EmptySlot.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-09T12:59:18.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-09T12:32:21.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Programowanie\\C#\\WPF\\Zadanie13\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T12:32:18.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

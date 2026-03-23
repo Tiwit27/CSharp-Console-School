@@ -1,0 +1,16 @@
+﻿<Window x:Class="Zadanie12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie12"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas Name="canvas">
+        <Image Source="/dog.png" Canvas.Top="0" Canvas.Left="0" Width="200" Name="dog" MouseDown="dog_MouseDown" MouseMove="dog_MouseMove" MouseUp="dog_MouseUp"/>
+        <Button Content="Lewo" Width="45" FontSize="15" Canvas.Top="350" Canvas.Left="30" Click="LButton_Click"/>
+        <Button Content="Góra" Width="45" FontSize="15" Canvas.Top="320" Canvas.Left="80" Click="TButton_Click"/>
+        <Button Content="Prawo" Width="45" FontSize="15" Canvas.Top="350" Canvas.Left="130" Click="RButton_Click"/>
+        <Button Content="Dół" Width="45" FontSize="15" Canvas.Top="380" Canvas.Left="80" Click="BButton_Click"/>
+    </Canvas>
+</Window>

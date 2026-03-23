@@ -1,0 +1,26 @@
+﻿<Window x:Class="Zadanie13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie13"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="480" Width="800">
+    <Canvas Name="canvas">
+        <Image Source="/Obrazki/dog.jpeg" Width="130" Canvas.Left="15" Canvas.Top="15" MouseDown="Image_MouseDown" MouseMove="dog_MouseMove" MouseUp="dog_MouseUp"/>
+        <Image Source="/Obrazki/cat.jpeg" Width="130" Canvas.Left="160" Canvas.Top="15" MouseDown="Image_MouseDown" MouseMove="dog_MouseMove" MouseUp="dog_MouseUp"/>
+        <Image Source="/Obrazki/elephant.jpeg" Width="130" Canvas.Left="15" Canvas.Top="160" MouseDown="Image_MouseDown" MouseMove="dog_MouseMove" MouseUp="dog_MouseUp"/>
+        <Image Source="/Obrazki/giraffe.jpeg" Width="130" Canvas.Top="160" Canvas.Left="160" MouseDown="Image_MouseDown" MouseMove="dog_MouseMove" MouseUp="dog_MouseUp"/>
+        <Image Source="/Obrazki/kangaroo.jpeg" Width="130" Canvas.Left="15" Canvas.Top="300" MouseDown="Image_MouseDown" MouseMove="dog_MouseMove" MouseUp="dog_MouseUp"/>
+        <Image Source="/Obrazki/lion.jpeg" Width="130" Canvas.Left="160" Canvas.Top="300" MouseDown="Image_MouseDown" MouseMove="dog_MouseMove" MouseUp="dog_MouseUp"/>
+
+        <Button Content="Reset" Name="reset" Canvas.Left="370" FontSize="30" Visibility="Collapsed" Click="reset_Click"/>
+
+        <local:EmptySlot Canvas.Right="160" Canvas.Top="15" Text="Lion" x:Name="lion"/>
+        <local:EmptySlot Canvas.Right="15" Canvas.Top="15" Text="Dog" x:Name="dog"/>
+        <local:EmptySlot Canvas.Top="160" Canvas.Right="160" Text="Elephant" x:Name="elephant"/>
+        <local:EmptySlot Canvas.Right="15" Canvas.Top="160" Text="Giraffe" x:Name="giraffe"/>
+        <local:EmptySlot Canvas.Right="160" Canvas.Top="300" Text="Kangaroo" x:Name="kangaroo"/>
+        <local:EmptySlot Canvas.Right="15" Canvas.Top="300" Text="Cat" x:Name="cat"/>
+    </Canvas>
+</Window>

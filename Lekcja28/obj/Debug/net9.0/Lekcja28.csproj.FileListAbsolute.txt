@@ -1,0 +1,15 @@
+C:\Programowanie\C#\Lekcja28\bin\Debug\net9.0\Lekcja28.exe
+C:\Programowanie\C#\Lekcja28\bin\Debug\net9.0\Lekcja28.deps.json
+C:\Programowanie\C#\Lekcja28\bin\Debug\net9.0\Lekcja28.runtimeconfig.json
+C:\Programowanie\C#\Lekcja28\bin\Debug\net9.0\Lekcja28.dll
+C:\Programowanie\C#\Lekcja28\bin\Debug\net9.0\Lekcja28.pdb
+C:\Programowanie\C#\Lekcja28\obj\Debug\net9.0\Lekcja28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programowanie\C#\Lekcja28\obj\Debug\net9.0\Lekcja28.AssemblyInfoInputs.cache
+C:\Programowanie\C#\Lekcja28\obj\Debug\net9.0\Lekcja28.AssemblyInfo.cs
+C:\Programowanie\C#\Lekcja28\obj\Debug\net9.0\Lekcja28.csproj.CoreCompileInputs.cache
+C:\Programowanie\C#\Lekcja28\obj\Debug\net9.0\Lekcja28.sourcelink.json
+C:\Programowanie\C#\Lekcja28\obj\Debug\net9.0\Lekcja28.dll
+C:\Programowanie\C#\Lekcja28\obj\Debug\net9.0\refint\Lekcja28.dll
+C:\Programowanie\C#\Lekcja28\obj\Debug\net9.0\Lekcja28.pdb
+C:\Programowanie\C#\Lekcja28\obj\Debug\net9.0\Lekcja28.genruntimeconfig.cache
+C:\Programowanie\C#\Lekcja28\obj\Debug\net9.0\ref\Lekcja28.dll

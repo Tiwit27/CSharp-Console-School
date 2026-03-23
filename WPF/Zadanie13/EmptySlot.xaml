@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Zadanie13.EmptySlot"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Zadanie13"
+             mc:Ignorable="d" 
+             d:DesignHeight="135" d:DesignWidth="135">
+    <Grid>
+        <Border Background="LightGray"
+        BorderBrush="Black"
+        BorderThickness="2"
+        CornerRadius="8"
+        Width="135" Height="135">
+            <Image Name="image" Width="130" Height="130"/>
+        </Border>
+        <TextBlock x:Name="textBlock" Text="Empty" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20"/>
+    </Grid>
+</UserControl>

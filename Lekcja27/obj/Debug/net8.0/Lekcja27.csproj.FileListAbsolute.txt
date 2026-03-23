@@ -1,0 +1,15 @@
+C:\Programowanie\C#\Lekcja27\bin\Debug\net8.0\Lekcja27.exe
+C:\Programowanie\C#\Lekcja27\bin\Debug\net8.0\Lekcja27.deps.json
+C:\Programowanie\C#\Lekcja27\bin\Debug\net8.0\Lekcja27.runtimeconfig.json
+C:\Programowanie\C#\Lekcja27\bin\Debug\net8.0\Lekcja27.dll
+C:\Programowanie\C#\Lekcja27\bin\Debug\net8.0\Lekcja27.pdb
+C:\Programowanie\C#\Lekcja27\obj\Debug\net8.0\Lekcja27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programowanie\C#\Lekcja27\obj\Debug\net8.0\Lekcja27.AssemblyInfoInputs.cache
+C:\Programowanie\C#\Lekcja27\obj\Debug\net8.0\Lekcja27.AssemblyInfo.cs
+C:\Programowanie\C#\Lekcja27\obj\Debug\net8.0\Lekcja27.csproj.CoreCompileInputs.cache
+C:\Programowanie\C#\Lekcja27\obj\Debug\net8.0\Lekcja27.sourcelink.json
+C:\Programowanie\C#\Lekcja27\obj\Debug\net8.0\Lekcja27.dll
+C:\Programowanie\C#\Lekcja27\obj\Debug\net8.0\refint\Lekcja27.dll
+C:\Programowanie\C#\Lekcja27\obj\Debug\net8.0\Lekcja27.pdb
+C:\Programowanie\C#\Lekcja27\obj\Debug\net8.0\Lekcja27.genruntimeconfig.cache
+C:\Programowanie\C#\Lekcja27\obj\Debug\net8.0\ref\Lekcja27.dll
