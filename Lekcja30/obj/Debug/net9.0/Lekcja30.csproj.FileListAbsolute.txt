@@ -1,0 +1,15 @@
+C:\Programowanie\C#\Lekcja30\bin\Debug\net9.0\Lekcja30.exe
+C:\Programowanie\C#\Lekcja30\bin\Debug\net9.0\Lekcja30.deps.json
+C:\Programowanie\C#\Lekcja30\bin\Debug\net9.0\Lekcja30.runtimeconfig.json
+C:\Programowanie\C#\Lekcja30\bin\Debug\net9.0\Lekcja30.dll
+C:\Programowanie\C#\Lekcja30\bin\Debug\net9.0\Lekcja30.pdb
+C:\Programowanie\C#\Lekcja30\obj\Debug\net9.0\Lekcja30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programowanie\C#\Lekcja30\obj\Debug\net9.0\Lekcja30.AssemblyInfoInputs.cache
+C:\Programowanie\C#\Lekcja30\obj\Debug\net9.0\Lekcja30.AssemblyInfo.cs
+C:\Programowanie\C#\Lekcja30\obj\Debug\net9.0\Lekcja30.csproj.CoreCompileInputs.cache
+C:\Programowanie\C#\Lekcja30\obj\Debug\net9.0\Lekcja30.sourcelink.json
+C:\Programowanie\C#\Lekcja30\obj\Debug\net9.0\Lekcja30.dll
+C:\Programowanie\C#\Lekcja30\obj\Debug\net9.0\refint\Lekcja30.dll
+C:\Programowanie\C#\Lekcja30\obj\Debug\net9.0\Lekcja30.pdb
+C:\Programowanie\C#\Lekcja30\obj\Debug\net9.0\Lekcja30.genruntimeconfig.cache
+C:\Programowanie\C#\Lekcja30\obj\Debug\net9.0\ref\Lekcja30.dll
